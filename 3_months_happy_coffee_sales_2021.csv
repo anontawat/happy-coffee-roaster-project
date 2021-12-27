@@ -1,0 +1,1630 @@
+,dates,times,orders,prices,staff
+0,01-07-2021,10:48,"['Cappucino', 'Pour-over special']","[70, 200]",Penguin
+1,01-07-2021,10:50,"['Pour-over special', 'Pour-over special']","[200, 200]",Penguin
+2,01-07-2021,11:15,"['Americano', 'Latte']","[50, 70]",Penguin
+3,01-07-2021,11:38,"['Espresso shot', 'Latte']","[30, 70]",Penguin
+4,01-07-2021,11:54,['Mocha'],[75],Penguin
+5,01-07-2021,12:37,['Flat white'],[70],Penguin
+6,01-07-2021,12:50,"['Pour-over normal', 'Pour-over special']","[100, 200]",Penguin
+7,01-07-2021,13:35,['Pour-over special'],[200],Penguin
+8,01-07-2021,13:49,"['Latte', 'Coffee beans 200']","[70, 400]",Penguin
+9,01-07-2021,14:01,"['Flat white', 'Latte']","[70, 70]",Penguin
+10,01-07-2021,14:57,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+11,01-07-2021,15:47,['Coffee beans 200'],[400],Penguin
+12,01-07-2021,16:19,"['Espresso shot', 'Espresso shot', 'Macchiato', 'Latte']","[30, 30, 75, 70]",Penguin
+13,01-07-2021,7:38,['Flat white'],[70],Penguin
+14,01-07-2021,9:05,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+15,01-07-2021,9:27,"['Pour-over special', 'Flat white']","[200, 70]",Penguin
+16,01-07-2021,9:56,['Coffee beans 200'],[400],Penguin
+17,02-07-2021,10:57,"['Coffee beans special 200', 'Coffee beans special 200', 'Americano', 'Pour-over normal', 'Espresso shot']","[600, 600, 50, 100, 30]",Rambo
+18,02-07-2021,11:25,"['Flat white', 'Cappucino', 'Pour-over special']","[70, 70, 200]",Rambo
+19,02-07-2021,12:09,"['Americano', 'Americano', 'Pour-over normal', 'Pour-over normal']","[50, 50, 100, 100]",Rambo
+20,02-07-2021,12:57,['Espresso shot'],[30],Rambo
+21,02-07-2021,13:12,['Coffee beans 200'],[400],Rambo
+22,02-07-2021,13:28,['Flat white'],[70],Rambo
+23,02-07-2021,13:31,"['Cappucino', 'Cappucino']","[70, 70]",Rambo
+24,02-07-2021,13:36,['Pour-over normal'],[100],Rambo
+25,02-07-2021,14:15,['Pour-over special'],[200],Rambo
+26,02-07-2021,14:30,"['Pour-over special', 'Coffee beans special 200', 'Pour-over normal', 'Pour-over special']","[200, 600, 100, 200]",Rambo
+27,02-07-2021,14:42,"['Coffee beans 200', 'Pour-over normal']","[400, 100]",Rambo
+28,02-07-2021,14:45,['Coffee beans 200'],[400],Rambo
+29,02-07-2021,15:33,"['Flat white', 'Americano']","[70, 50]",Rambo
+30,02-07-2021,16:50,['Pour-over normal'],[100],Rambo
+31,02-07-2021,7:06,"['Espresso shot', 'Cappucino', 'Mocha']","[30, 70, 75]",Rambo
+32,02-07-2021,7:10,"['Flat white', 'Latte']","[70, 70]",Rambo
+33,02-07-2021,8:53,"['Latte', 'Coffee beans special 200']","[70, 600]",Rambo
+34,02-07-2021,9:59,['Americano'],[50],Rambo
+35,03-07-2021,10:36,['Pour-over special'],[200],Medse
+36,03-07-2021,10:46,"['Coffee beans special 200', 'Flat white', 'Espresso shot']","[600, 70, 30]",Medse
+37,03-07-2021,11:26,"['Flat white', 'Pour-over special']","[70, 200]",Medse
+38,03-07-2021,12:48,['Flat white'],[70],Medse
+39,03-07-2021,13:21,['Pour-over special'],[200],Medse
+40,03-07-2021,13:53,['Pour-over special'],[200],Medse
+41,03-07-2021,13:54,['Latte'],[70],Medse
+42,03-07-2021,13:58,"['Latte', 'Flat white']","[70, 70]",Medse
+43,03-07-2021,14:10,['Pour-over special'],[200],Medse
+44,03-07-2021,14:28,"['Espresso shot', 'Coffee beans 200']","[30, 400]",Medse
+45,03-07-2021,15:02,"['Flat white', 'Latte']","[70, 70]",Medse
+46,03-07-2021,16:05,['Pour-over normal'],[100],Medse
+47,03-07-2021,16:08,"['Espresso shot', 'Flat white', 'Pour-over normal']","[30, 70, 100]",Medse
+48,03-07-2021,16:14,"['Americano', 'Americano']","[50, 50]",Medse
+49,03-07-2021,16:22,['Americano'],[50],Medse
+50,03-07-2021,16:23,['Espresso shot'],[30],Medse
+51,03-07-2021,16:43,['Coffee beans 200'],[400],Medse
+52,03-07-2021,7:22,['Coffee beans special 200'],[600],Medse
+53,03-07-2021,7:46,['Pour-over special'],[200],Medse
+54,03-07-2021,7:53,['Pour-over normal'],[100],Medse
+55,03-07-2021,8:34,['Coffee beans special 200'],[600],Medse
+56,03-07-2021,8:44,"['Americano', 'Coffee beans special 200', 'Pour-over normal', 'Espresso shot']","[50, 600, 100, 30]",Medse
+57,03-07-2021,8:45,['Pour-over normal'],[100],Medse
+58,03-07-2021,9:26,['Macchiato'],[75],Medse
+59,03-07-2021,9:27,"['Coffee beans 200', 'Pour-over special']","[400, 200]",Medse
+60,03-07-2021,9:45,['Americano'],[50],Medse
+61,04-07-2021,10:26,"['Americano', 'Americano']","[50, 50]",Medse
+62,04-07-2021,11:35,['Pour-over normal'],[100],Medse
+63,04-07-2021,11:35,"['Pour-over normal', 'Americano']","[100, 50]",Medse
+64,04-07-2021,11:46,['Mocha'],[75],Medse
+65,04-07-2021,12:06,"['Cappucino', 'Pour-over special']","[70, 200]",Medse
+66,04-07-2021,12:32,"['Pour-over special', 'Pour-over special']","[200, 200]",Medse
+67,04-07-2021,12:34,['Pour-over normal'],[100],Medse
+68,04-07-2021,12:39,"['Flat white', 'Espresso shot']","[70, 30]",Medse
+69,04-07-2021,12:46,"['Americano', 'Pour-over special']","[50, 200]",Medse
+70,04-07-2021,13:03,"['Mocha', 'Americano', 'Latte', 'Coffee beans special 200']","[75, 50, 70, 600]",Medse
+71,04-07-2021,14:00,"['Americano', 'Coffee beans special 200']","[50, 600]",Medse
+72,04-07-2021,14:06,"['Latte', 'Pour-over normal', 'Cappucino', 'Pour-over special']","[70, 100, 70, 200]",Medse
+73,04-07-2021,14:57,['Pour-over normal'],[100],Medse
+74,04-07-2021,15:08,['Pour-over normal'],[100],Medse
+75,04-07-2021,16:09,['Pour-over normal'],[100],Medse
+76,04-07-2021,16:39,['Espresso shot'],[30],Medse
+77,04-07-2021,16:44,['Pour-over special'],[200],Medse
+78,04-07-2021,16:54,"['Pour-over special', 'Flat white']","[200, 70]",Medse
+79,04-07-2021,7:02,"['Mocha', 'Macchiato']","[75, 75]",Medse
+80,04-07-2021,7:06,"['Cappucino', 'Cappucino']","[70, 70]",Medse
+81,04-07-2021,8:48,"['Pour-over normal', 'Latte']","[100, 70]",Medse
+82,04-07-2021,9:37,"['Pour-over special', 'Flat white', 'Americano']","[200, 70, 50]",Medse
+83,04-07-2021,9:38,['Flat white'],[70],Medse
+84,05-07-2021,10:05,"['Coffee beans 200', 'Mocha']","[400, 75]",Rambo
+85,05-07-2021,10:43,"['Cappucino', 'Pour-over special']","[70, 200]",Rambo
+86,05-07-2021,12:57,"['Pour-over special', 'Espresso shot']","[200, 30]",Rambo
+87,05-07-2021,13:47,"['Latte', 'Latte']","[70, 70]",Rambo
+88,05-07-2021,13:48,['Pour-over normal'],[100],Rambo
+89,05-07-2021,15:09,"['Pour-over normal', 'Flat white', 'Flat white']","[100, 70, 70]",Rambo
+90,05-07-2021,16:39,['Pour-over special'],[200],Rambo
+91,05-07-2021,7:06,['Latte'],[70],Rambo
+92,05-07-2021,8:30,"['Flat white', 'Americano']","[70, 50]",Rambo
+93,05-07-2021,9:41,"['Cappucino', 'Espresso shot', 'Pour-over normal']","[70, 30, 100]",Rambo
+94,05-07-2021,9:43,"['Flat white', 'Cappucino', 'Coffee beans 200']","[70, 70, 400]",Rambo
+95,06-07-2021,10:32,['Pour-over special'],[200],Penguin
+96,06-07-2021,10:48,"['Americano', 'Pour-over normal']","[50, 100]",Penguin
+97,06-07-2021,13:10,['Flat white'],[70],Penguin
+98,06-07-2021,13:27,"['Cappucino', 'Pour-over normal', 'Americano']","[70, 100, 50]",Penguin
+99,06-07-2021,16:25,['Americano'],[50],Penguin
+100,06-07-2021,16:31,"['Coffee beans special 200', 'Pour-over normal', 'Cappucino']","[600, 100, 70]",Penguin
+101,06-07-2021,16:47,"['Macchiato', 'Mocha', 'Cappucino', 'Pour-over special']","[75, 75, 70, 200]",Penguin
+102,06-07-2021,7:14,"['Mocha', 'Flat white', 'Pour-over special', 'Latte']","[75, 70, 200, 70]",Penguin
+103,06-07-2021,9:12,"['Coffee beans special 200', 'Latte']","[600, 70]",Penguin
+104,06-07-2021,9:13,"['Pour-over normal', 'Cappucino']","[100, 70]",Penguin
+105,07-07-2021,11:43,"['Pour-over normal', 'Espresso shot', 'Macchiato']","[100, 30, 75]",Rambo
+106,07-07-2021,14:58,"['Flat white', 'Cappucino']","[70, 70]",Rambo
+107,07-07-2021,15:55,"['Flat white', 'Pour-over normal']","[70, 100]",Rambo
+108,07-07-2021,7:11,"['Americano', 'Flat white', 'Latte']","[50, 70, 70]",Rambo
+109,07-07-2021,8:13,['Pour-over special'],[200],Rambo
+110,07-07-2021,8:38,"['Espresso shot', 'Pour-over normal']","[30, 100]",Rambo
+111,07-07-2021,8:50,['Pour-over special'],[200],Rambo
+112,08-07-2021,11:34,['Flat white'],[70],Penguin
+113,08-07-2021,11:41,['Americano'],[50],Penguin
+114,08-07-2021,13:17,['Latte'],[70],Penguin
+115,08-07-2021,13:34,['Flat white'],[70],Penguin
+116,08-07-2021,13:43,"['Pour-over special', 'Cappucino']","[200, 70]",Penguin
+117,08-07-2021,14:11,"['Cappucino', 'Pour-over special']","[70, 200]",Penguin
+118,08-07-2021,14:16,['Pour-over normal'],[100],Penguin
+119,08-07-2021,14:21,"['Pour-over normal', 'Latte', 'Mocha', 'Americano']","[100, 70, 75, 50]",Penguin
+120,08-07-2021,14:27,['Pour-over special'],[200],Penguin
+121,08-07-2021,16:43,['Americano'],[50],Penguin
+122,08-07-2021,7:34,"['Pour-over special', 'Pour-over normal']","[200, 100]",Penguin
+123,08-07-2021,8:22,['Latte'],[70],Penguin
+124,08-07-2021,9:05,"['Cappucino', 'Latte']","[70, 70]",Penguin
+125,08-07-2021,9:47,"['Flat white', 'Coffee beans special 200']","[70, 600]",Penguin
+126,09-07-2021,10:10,"['Coffee beans special 200', 'Cappucino', 'Pour-over normal']","[600, 70, 100]",Rambo
+127,09-07-2021,10:25,"['Pour-over special', 'Pour-over normal']","[200, 100]",Rambo
+128,09-07-2021,10:33,['Coffee beans 200'],[400],Rambo
+129,09-07-2021,10:37,"['Espresso shot', 'Pour-over special']","[30, 200]",Rambo
+130,09-07-2021,10:37,"['Coffee beans 200', 'Cappucino', 'Pour-over normal', 'Pour-over special', 'Pour-over normal']","[400, 70, 100, 200, 100]",Rambo
+131,09-07-2021,11:28,['Mocha'],[75],Rambo
+132,09-07-2021,12:03,['Latte'],[70],Rambo
+133,09-07-2021,12:18,"['Espresso shot', 'Flat white', 'Cappucino', 'Americano']","[30, 70, 70, 50]",Rambo
+134,09-07-2021,13:01,"['Flat white', 'Pour-over normal', 'Latte']","[70, 100, 70]",Rambo
+135,09-07-2021,14:24,"['Espresso shot', 'Latte']","[30, 70]",Rambo
+136,09-07-2021,14:25,"['Latte', 'Coffee beans 200', 'Coffee beans 200']","[70, 400, 400]",Rambo
+137,09-07-2021,15:36,['Cappucino'],[70],Rambo
+138,09-07-2021,16:15,['Cappucino'],[70],Rambo
+139,09-07-2021,16:49,"['Latte', 'Pour-over special']","[70, 200]",Rambo
+140,09-07-2021,16:50,['Pour-over normal'],[100],Rambo
+141,09-07-2021,7:24,['Cappucino'],[70],Rambo
+142,09-07-2021,7:29,['Cappucino'],[70],Rambo
+143,09-07-2021,7:41,['Mocha'],[75],Rambo
+144,09-07-2021,8:00,"['Mocha', 'Flat white']","[75, 70]",Rambo
+145,09-07-2021,8:39,['Latte'],[70],Rambo
+146,09-07-2021,8:52,['Pour-over normal'],[100],Rambo
+147,09-07-2021,9:05,['Mocha'],[75],Rambo
+148,09-07-2021,9:07,['Espresso shot'],[30],Rambo
+149,09-07-2021,9:45,['Americano'],[50],Rambo
+150,09-07-2021,9:56,['Coffee beans 200'],[400],Rambo
+151,10-07-2021,10:02,['Flat white'],[70],Medse
+152,10-07-2021,12:00,['Pour-over special'],[200],Medse
+153,10-07-2021,15:15,"['Mocha', 'Pour-over normal']","[75, 100]",Medse
+154,10-07-2021,16:58,"['Pour-over normal', 'Americano', 'Latte', 'Pour-over special']","[100, 50, 70, 200]",Medse
+155,10-07-2021,7:20,"['Pour-over normal', 'Latte']","[100, 70]",Medse
+156,10-07-2021,7:43,['Mocha'],[75],Medse
+157,11-07-2021,10:56,"['Pour-over special', 'Coffee beans special 200', 'Espresso shot', 'Pour-over normal']","[200, 600, 30, 100]",Medse
+158,11-07-2021,10:57,['Pour-over normal'],[100],Medse
+159,11-07-2021,11:32,"['Americano', 'Cappucino', 'Latte', 'Latte', 'Pour-over normal']","[50, 70, 70, 70, 100]",Medse
+160,11-07-2021,12:12,['Cappucino'],[70],Medse
+161,11-07-2021,12:19,"['Latte', 'Cappucino', 'Pour-over special', 'Latte', 'Pour-over normal']","[70, 70, 200, 70, 100]",Medse
+162,11-07-2021,12:34,"['Flat white', 'Latte', 'Pour-over normal', 'Pour-over special', 'Pour-over normal']","[70, 70, 100, 200, 100]",Medse
+163,11-07-2021,13:29,['Pour-over special'],[200],Medse
+164,11-07-2021,14:04,"['Pour-over special', 'Pour-over special']","[200, 200]",Medse
+165,11-07-2021,14:49,['Latte'],[70],Medse
+166,11-07-2021,15:35,['Pour-over special'],[200],Medse
+167,11-07-2021,15:45,"['Pour-over normal', 'Cappucino']","[100, 70]",Medse
+168,11-07-2021,7:40,['Latte'],[70],Medse
+169,11-07-2021,7:55,['Americano'],[50],Medse
+170,11-07-2021,8:05,['Pour-over normal'],[100],Medse
+171,11-07-2021,8:12,"['Coffee beans 200', 'Cappucino']","[400, 70]",Medse
+172,11-07-2021,8:23,['Coffee beans 200'],[400],Medse
+173,11-07-2021,8:44,"['Flat white', 'Flat white', 'Mocha']","[70, 70, 75]",Medse
+174,11-07-2021,8:55,"['Latte', 'Mocha', 'Latte', 'Macchiato', 'Flat white']","[70, 75, 70, 75, 70]",Medse
+175,11-07-2021,9:05,"['Mocha', 'Espresso shot']","[75, 30]",Medse
+176,11-07-2021,9:55,['Flat white'],[70],Medse
+177,12-07-2021,10:20,"['Flat white', 'Latte', 'Espresso shot']","[70, 70, 30]",Rambo
+178,12-07-2021,10:33,['Americano'],[50],Rambo
+179,12-07-2021,11:07,"['Latte', 'Pour-over normal']","[70, 100]",Rambo
+180,12-07-2021,11:09,"['Flat white', 'Pour-over normal']","[70, 100]",Rambo
+181,12-07-2021,11:24,"['Coffee beans special 200', 'Pour-over normal']","[600, 100]",Rambo
+182,12-07-2021,11:46,['Latte'],[70],Rambo
+183,12-07-2021,12:27,"['Pour-over normal', 'Cappucino']","[100, 70]",Rambo
+184,12-07-2021,13:45,"['Pour-over normal', 'Flat white', 'Flat white']","[100, 70, 70]",Rambo
+185,12-07-2021,14:50,['Cappucino'],[70],Rambo
+186,12-07-2021,15:45,['Americano'],[50],Rambo
+187,12-07-2021,16:03,"['Pour-over special', 'Americano']","[200, 50]",Rambo
+188,12-07-2021,16:18,"['Pour-over normal', 'Pour-over special', 'Pour-over normal', 'Pour-over normal', 'Latte']","[100, 200, 100, 100, 70]",Rambo
+189,12-07-2021,16:29,['Pour-over normal'],[100],Rambo
+190,12-07-2021,16:35,['Latte'],[70],Rambo
+191,12-07-2021,16:43,"['Coffee beans 200', 'Cappucino']","[400, 70]",Rambo
+192,12-07-2021,7:13,"['Cappucino', 'Mocha']","[70, 75]",Rambo
+193,12-07-2021,7:44,['Americano'],[50],Rambo
+194,12-07-2021,8:47,"['Mocha', 'Cappucino']","[75, 70]",Rambo
+195,13-07-2021,11:18,['Pour-over special'],[200],Penguin
+196,13-07-2021,12:00,"['Pour-over normal', 'Americano']","[100, 50]",Penguin
+197,13-07-2021,12:21,"['Pour-over normal', 'Flat white']","[100, 70]",Penguin
+198,13-07-2021,12:48,"['Latte', 'Latte']","[70, 70]",Penguin
+199,13-07-2021,13:01,"['Coffee beans 200', 'Latte']","[400, 70]",Penguin
+200,13-07-2021,7:14,"['Coffee beans special 200', 'Cappucino', 'Pour-over special']","[600, 70, 200]",Penguin
+201,13-07-2021,7:16,['Espresso shot'],[30],Penguin
+202,13-07-2021,7:43,"['Latte', 'Flat white', 'Latte']","[70, 70, 70]",Penguin
+203,13-07-2021,9:13,['Cappucino'],[70],Penguin
+204,13-07-2021,9:41,['Coffee beans special 200'],[600],Penguin
+205,13-07-2021,9:48,"['Espresso shot', 'Coffee beans 200', 'Coffee beans special 200', 'Pour-over normal', 'Latte']","[30, 400, 600, 100, 70]",Penguin
+206,13-07-2021,9:58,['Americano'],[50],Penguin
+207,13-07-2021,9:59,"['Pour-over special', 'Cappucino']","[200, 70]",Penguin
+208,14-07-2021,10:18,['Mocha'],[75],Rambo
+209,14-07-2021,10:49,['Cappucino'],[70],Rambo
+210,14-07-2021,11:00,['Americano'],[50],Rambo
+211,14-07-2021,11:15,['Pour-over special'],[200],Rambo
+212,14-07-2021,12:38,"['Pour-over special', 'Pour-over normal']","[200, 100]",Rambo
+213,14-07-2021,14:03,['Flat white'],[70],Rambo
+214,14-07-2021,14:26,['Pour-over normal'],[100],Rambo
+215,14-07-2021,14:57,"['Pour-over normal', 'Flat white', 'Cappucino']","[100, 70, 70]",Rambo
+216,14-07-2021,15:08,"['Coffee beans special 200', 'Macchiato']","[600, 75]",Rambo
+217,14-07-2021,8:58,['Flat white'],[70],Rambo
+218,14-07-2021,9:04,['Pour-over normal'],[100],Rambo
+219,14-07-2021,9:13,['Espresso shot'],[30],Rambo
+220,14-07-2021,9:47,"['Latte', 'Flat white', 'Espresso shot', 'Pour-over normal', 'Coffee beans special 200']","[70, 70, 30, 100, 600]",Rambo
+221,15-07-2021,10:51,['Flat white'],[70],Penguin
+222,15-07-2021,11:23,['Pour-over special'],[200],Penguin
+223,15-07-2021,11:39,"['Pour-over normal', 'Macchiato']","[100, 75]",Penguin
+224,15-07-2021,12:07,"['Coffee beans 200', 'Cappucino']","[400, 70]",Penguin
+225,15-07-2021,12:19,"['Mocha', 'Americano', 'Latte', 'Pour-over normal', 'Latte']","[75, 50, 70, 100, 70]",Penguin
+226,15-07-2021,13:02,"['Latte', 'Pour-over normal', 'Pour-over special', 'Cappucino']","[70, 100, 200, 70]",Penguin
+227,15-07-2021,13:07,"['Flat white', 'Pour-over special']","[70, 200]",Penguin
+228,15-07-2021,13:08,['Cappucino'],[70],Penguin
+229,15-07-2021,13:41,"['Coffee beans 200', 'Cappucino']","[400, 70]",Penguin
+230,15-07-2021,14:11,"['Pour-over special', 'Pour-over normal', 'Cappucino']","[200, 100, 70]",Penguin
+231,15-07-2021,14:14,['Pour-over special'],[200],Penguin
+232,15-07-2021,14:23,"['Pour-over normal', 'Pour-over normal', 'Pour-over normal', 'Pour-over special']","[100, 100, 100, 200]",Penguin
+233,15-07-2021,14:28,['Pour-over normal'],[100],Penguin
+234,15-07-2021,14:39,"['Macchiato', 'Flat white', 'Pour-over normal']","[75, 70, 100]",Penguin
+235,15-07-2021,14:52,['Pour-over special'],[200],Penguin
+236,15-07-2021,15:15,['Pour-over special'],[200],Penguin
+237,15-07-2021,15:29,['Latte'],[70],Penguin
+238,15-07-2021,16:19,"['Pour-over special', 'Espresso shot', 'Pour-over normal', 'Latte', 'Pour-over normal']","[200, 30, 100, 70, 100]",Penguin
+239,15-07-2021,16:58,['Americano'],[50],Penguin
+240,15-07-2021,7:35,['Latte'],[70],Penguin
+241,15-07-2021,8:08,"['Flat white', 'Coffee beans special 200', 'Flat white']","[70, 600, 70]",Penguin
+242,15-07-2021,8:09,['Coffee beans special 200'],[600],Penguin
+243,15-07-2021,8:40,['Coffee beans special 200'],[600],Penguin
+244,15-07-2021,8:49,['Coffee beans 200'],[400],Penguin
+245,15-07-2021,8:59,['Pour-over special'],[200],Penguin
+246,15-07-2021,9:05,"['Coffee beans special 200', 'Pour-over normal', 'Pour-over normal']","[600, 100, 100]",Penguin
+247,15-07-2021,9:10,['Flat white'],[70],Penguin
+248,16-07-2021,11:09,['Coffee beans 200'],[400],Rambo
+249,16-07-2021,11:58,['Coffee beans 200'],[400],Rambo
+250,16-07-2021,12:59,['Latte'],[70],Rambo
+251,16-07-2021,13:14,"['Macchiato', 'Macchiato']","[75, 75]",Rambo
+252,16-07-2021,14:29,"['Latte', 'Pour-over normal']","[70, 100]",Rambo
+253,16-07-2021,16:20,['Pour-over normal'],[100],Rambo
+254,16-07-2021,7:49,"['Latte', 'Flat white', 'Pour-over special']","[70, 70, 200]",Rambo
+255,16-07-2021,8:54,['Americano'],[50],Rambo
+256,16-07-2021,9:29,"['Flat white', 'Cappucino', 'Espresso shot']","[70, 70, 30]",Rambo
+257,17-07-2021,10:47,['Coffee beans special 200'],[600],Medse
+258,17-07-2021,12:51,"['Americano', 'Macchiato']","[50, 75]",Medse
+259,17-07-2021,14:25,"['Americano', 'Macchiato']","[50, 75]",Medse
+260,17-07-2021,15:07,['Pour-over normal'],[100],Medse
+261,17-07-2021,16:41,['Pour-over special'],[200],Medse
+262,18-07-2021,10:47,['Mocha'],[75],Medse
+263,18-07-2021,10:54,"['Latte', 'Americano', 'Latte']","[70, 50, 70]",Medse
+264,18-07-2021,11:54,"['Coffee beans special 200', 'Flat white']","[600, 70]",Medse
+265,18-07-2021,12:04,"['Pour-over normal', 'Latte']","[100, 70]",Medse
+266,18-07-2021,13:28,['Coffee beans 200'],[400],Medse
+267,18-07-2021,13:34,['Cappucino'],[70],Medse
+268,18-07-2021,13:45,"['Latte', 'Coffee beans special 200']","[70, 600]",Medse
+269,18-07-2021,14:05,"['Mocha', 'Latte']","[75, 70]",Medse
+270,18-07-2021,14:07,['Pour-over normal'],[100],Medse
+271,18-07-2021,14:09,"['Mocha', 'Pour-over special', 'Macchiato']","[75, 200, 75]",Medse
+272,18-07-2021,14:44,"['Latte', 'Latte', 'Pour-over normal', 'Pour-over normal']","[70, 70, 100, 100]",Medse
+273,18-07-2021,15:49,"['Americano', 'Cappucino']","[50, 70]",Medse
+274,18-07-2021,15:53,['Flat white'],[70],Medse
+275,18-07-2021,16:08,['Cappucino'],[70],Medse
+276,18-07-2021,16:45,"['Coffee beans special 200', 'Pour-over normal']","[600, 100]",Medse
+277,18-07-2021,16:50,"['Pour-over special', 'Coffee beans special 200', 'Latte', 'Coffee beans special 200', 'Pour-over normal']","[200, 600, 70, 600, 100]",Medse
+278,18-07-2021,7:24,"['Cappucino', 'Flat white']","[70, 70]",Medse
+279,18-07-2021,8:00,['Macchiato'],[75],Medse
+280,18-07-2021,8:09,"['Flat white', 'Flat white']","[70, 70]",Medse
+281,18-07-2021,8:12,['Pour-over special'],[200],Medse
+282,18-07-2021,8:25,['Flat white'],[70],Medse
+283,18-07-2021,8:28,"['Macchiato', 'Latte', 'Pour-over normal']","[75, 70, 100]",Medse
+284,18-07-2021,8:41,['Pour-over normal'],[100],Medse
+285,19-07-2021,11:10,['Espresso shot'],[30],Rambo
+286,19-07-2021,11:45,['Americano'],[50],Rambo
+287,19-07-2021,12:06,"['Pour-over normal', 'Americano']","[100, 50]",Rambo
+288,19-07-2021,13:16,['Flat white'],[70],Rambo
+289,19-07-2021,13:32,['Pour-over normal'],[100],Rambo
+290,19-07-2021,13:49,"['Macchiato', 'Flat white']","[75, 70]",Rambo
+291,19-07-2021,14:00,"['Pour-over special', 'Pour-over special']","[200, 200]",Rambo
+292,19-07-2021,15:10,"['Pour-over special', 'Espresso shot']","[200, 30]",Rambo
+293,19-07-2021,15:30,['Coffee beans special 200'],[600],Rambo
+294,19-07-2021,15:47,"['Latte', 'Coffee beans special 200']","[70, 600]",Rambo
+295,19-07-2021,15:58,"['Coffee beans special 200', 'Flat white', 'Latte', 'Pour-over normal']","[600, 70, 70, 100]",Rambo
+296,19-07-2021,16:09,['Americano'],[50],Rambo
+297,19-07-2021,16:09,"['Pour-over special', 'Pour-over special']","[200, 200]",Rambo
+298,19-07-2021,16:46,"['Cappucino', 'Latte']","[70, 70]",Rambo
+299,19-07-2021,16:50,['Americano'],[50],Rambo
+300,19-07-2021,7:04,"['Pour-over normal', 'Pour-over normal', 'Pour-over normal', 'Pour-over normal', 'Espresso shot']","[100, 100, 100, 100, 30]",Rambo
+301,19-07-2021,8:09,['Cappucino'],[70],Rambo
+302,19-07-2021,9:11,['Pour-over special'],[200],Rambo
+303,19-07-2021,9:24,['Pour-over special'],[200],Rambo
+304,20-07-2021,10:22,['Pour-over special'],[200],Penguin
+305,20-07-2021,10:32,"['Coffee beans special 200', 'Pour-over normal']","[600, 100]",Penguin
+306,20-07-2021,10:50,['Flat white'],[70],Penguin
+307,20-07-2021,11:14,['Americano'],[50],Penguin
+308,20-07-2021,11:16,"['Mocha', 'Latte']","[75, 70]",Penguin
+309,20-07-2021,11:16,['Americano'],[50],Penguin
+310,20-07-2021,11:31,"['Macchiato', 'Flat white', 'Coffee beans special 200', 'Flat white']","[75, 70, 600, 70]",Penguin
+311,20-07-2021,11:33,"['Cappucino', 'Americano']","[70, 50]",Penguin
+312,20-07-2021,11:37,"['Pour-over normal', 'Latte']","[100, 70]",Penguin
+313,20-07-2021,12:23,['Flat white'],[70],Penguin
+314,20-07-2021,12:29,['Mocha'],[75],Penguin
+315,20-07-2021,12:44,"['Coffee beans special 200', 'Pour-over normal', 'Pour-over normal', 'Espresso shot', 'Coffee beans 200']","[600, 100, 100, 30, 400]",Penguin
+316,20-07-2021,14:32,['Espresso shot'],[30],Penguin
+317,20-07-2021,14:40,['Macchiato'],[75],Penguin
+318,20-07-2021,14:45,"['Americano', 'Macchiato']","[50, 75]",Penguin
+319,20-07-2021,15:24,"['Espresso shot', 'Cappucino']","[30, 70]",Penguin
+320,20-07-2021,15:34,"['Espresso shot', 'Pour-over special', 'Pour-over special']","[30, 200, 200]",Penguin
+321,20-07-2021,15:44,"['Macchiato', 'Macchiato', 'Americano']","[75, 75, 50]",Penguin
+322,20-07-2021,15:59,['Pour-over normal'],[100],Penguin
+323,20-07-2021,16:04,"['Macchiato', 'Cappucino']","[75, 70]",Penguin
+324,20-07-2021,16:13,['Cappucino'],[70],Penguin
+325,20-07-2021,16:40,['Latte'],[70],Penguin
+326,20-07-2021,7:45,['Americano'],[50],Penguin
+327,20-07-2021,7:50,['Latte'],[70],Penguin
+328,20-07-2021,7:55,"['Coffee beans special 200', 'Macchiato']","[600, 75]",Penguin
+329,20-07-2021,8:12,"['Macchiato', 'Mocha']","[75, 75]",Penguin
+330,20-07-2021,8:30,['Coffee beans special 200'],[600],Penguin
+331,20-07-2021,8:48,"['Pour-over normal', 'Flat white']","[100, 70]",Penguin
+332,20-07-2021,9:00,['Pour-over special'],[200],Penguin
+333,20-07-2021,9:19,"['Coffee beans 200', 'Pour-over normal']","[400, 100]",Penguin
+334,21-07-2021,10:21,['Coffee beans 200'],[400],Rambo
+335,21-07-2021,10:28,['Pour-over normal'],[100],Rambo
+336,21-07-2021,10:38,"['Pour-over special', 'Cappucino', 'Espresso shot', 'Macchiato']","[200, 70, 30, 75]",Rambo
+337,21-07-2021,11:11,"['Mocha', 'Cappucino', 'Latte']","[75, 70, 70]",Rambo
+338,21-07-2021,11:47,['Pour-over normal'],[100],Rambo
+339,21-07-2021,11:58,"['Pour-over normal', 'Espresso shot']","[100, 30]",Rambo
+340,21-07-2021,12:36,"['Pour-over normal', 'Americano', 'Flat white', 'Espresso shot', 'Latte']","[100, 50, 70, 30, 70]",Rambo
+341,21-07-2021,13:46,"['Pour-over normal', 'Americano']","[100, 50]",Rambo
+342,21-07-2021,14:43,"['Macchiato', 'Pour-over normal', 'Latte', 'Mocha']","[75, 100, 70, 75]",Rambo
+343,21-07-2021,15:34,"['Pour-over normal', 'Flat white']","[100, 70]",Rambo
+344,21-07-2021,16:51,['Coffee beans special 200'],[600],Rambo
+345,21-07-2021,16:56,['Pour-over special'],[200],Rambo
+346,22-07-2021,10:04,"['Pour-over special', 'Coffee beans special 200']","[200, 600]",Penguin
+347,22-07-2021,10:08,"['Macchiato', 'Latte']","[75, 70]",Penguin
+348,22-07-2021,10:12,['Cappucino'],[70],Penguin
+349,22-07-2021,10:43,['Americano'],[50],Penguin
+350,22-07-2021,11:01,['Cappucino'],[70],Penguin
+351,22-07-2021,11:19,"['Americano', 'Pour-over normal']","[50, 100]",Penguin
+352,22-07-2021,11:38,['Pour-over normal'],[100],Penguin
+353,22-07-2021,12:17,"['Espresso shot', 'Cappucino']","[30, 70]",Penguin
+354,22-07-2021,13:05,"['Mocha', 'Cappucino']","[75, 70]",Penguin
+355,22-07-2021,13:20,['Cappucino'],[70],Penguin
+356,22-07-2021,13:47,"['Pour-over normal', 'Americano']","[100, 50]",Penguin
+357,22-07-2021,14:00,"['Pour-over normal', 'Americano']","[100, 50]",Penguin
+358,22-07-2021,14:57,['Cappucino'],[70],Penguin
+359,22-07-2021,15:12,"['Coffee beans 200', 'Mocha', 'Cappucino']","[400, 75, 70]",Penguin
+360,22-07-2021,15:13,"['Pour-over normal', 'Pour-over special']","[100, 200]",Penguin
+361,22-07-2021,15:16,['Americano'],[50],Penguin
+362,22-07-2021,15:28,['Pour-over special'],[200],Penguin
+363,22-07-2021,16:11,"['Cappucino', 'Americano']","[70, 50]",Penguin
+364,22-07-2021,16:30,"['Cappucino', 'Coffee beans special 200', 'Pour-over special', 'Pour-over special', 'Coffee beans special 200']","[70, 600, 200, 200, 600]",Penguin
+365,22-07-2021,16:48,"['Pour-over special', 'Espresso shot']","[200, 30]",Penguin
+366,22-07-2021,7:04,"['Pour-over normal', 'Flat white']","[100, 70]",Penguin
+367,22-07-2021,7:45,['Flat white'],[70],Penguin
+368,22-07-2021,8:36,"['Flat white', 'Espresso shot', 'Coffee beans special 200']","[70, 30, 600]",Penguin
+369,22-07-2021,8:38,['Pour-over special'],[200],Penguin
+370,22-07-2021,9:02,"['Pour-over normal', 'Flat white']","[100, 70]",Penguin
+371,22-07-2021,9:57,['Latte'],[70],Penguin
+372,23-07-2021,10:15,['Latte'],[70],Rambo
+373,23-07-2021,10:21,['Coffee beans 200'],[400],Rambo
+374,23-07-2021,10:30,"['Pour-over special', 'Pour-over normal']","[200, 100]",Rambo
+375,23-07-2021,11:22,['Americano'],[50],Rambo
+376,23-07-2021,11:26,['Coffee beans special 200'],[600],Rambo
+377,23-07-2021,11:29,['Cappucino'],[70],Rambo
+378,23-07-2021,11:38,"['Pour-over special', 'Americano', 'Latte', 'Mocha']","[200, 50, 70, 75]",Rambo
+379,23-07-2021,11:44,"['Mocha', 'Espresso shot']","[75, 30]",Rambo
+380,23-07-2021,12:22,['Flat white'],[70],Rambo
+381,23-07-2021,12:54,"['Pour-over normal', 'Pour-over normal', 'Pour-over special']","[100, 100, 200]",Rambo
+382,23-07-2021,12:59,['Coffee beans special 200'],[600],Rambo
+383,23-07-2021,13:51,['Cappucino'],[70],Rambo
+384,23-07-2021,14:00,"['Coffee beans special 200', 'Latte']","[600, 70]",Rambo
+385,23-07-2021,14:48,"['Pour-over normal', 'Cappucino', 'Pour-over normal']","[100, 70, 100]",Rambo
+386,23-07-2021,15:48,"['Flat white', 'Pour-over normal', 'Coffee beans special 200']","[70, 100, 600]",Rambo
+387,23-07-2021,16:10,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+388,23-07-2021,16:36,"['Flat white', 'Mocha']","[70, 75]",Rambo
+389,23-07-2021,7:28,"['Latte', 'Americano', 'Cappucino', 'Americano']","[70, 50, 70, 50]",Rambo
+390,23-07-2021,7:49,['Pour-over special'],[200],Rambo
+391,23-07-2021,8:09,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+392,23-07-2021,8:09,"['Pour-over special', 'Latte']","[200, 70]",Rambo
+393,23-07-2021,8:14,"['Flat white', 'Pour-over normal']","[70, 100]",Rambo
+394,23-07-2021,8:37,"['Americano', 'Cappucino']","[50, 70]",Rambo
+395,23-07-2021,8:39,"['Pour-over special', 'Macchiato']","[200, 75]",Rambo
+396,23-07-2021,8:46,['Pour-over special'],[200],Rambo
+397,23-07-2021,8:52,"['Pour-over normal', 'Coffee beans 200', 'Latte']","[100, 400, 70]",Rambo
+398,23-07-2021,9:38,"['Mocha', 'Espresso shot', 'Coffee beans 200', 'Pour-over special']","[75, 30, 400, 200]",Rambo
+399,24-07-2021,12:25,"['Latte', 'Latte']","[70, 70]",Medse
+400,24-07-2021,12:50,['Cappucino'],[70],Medse
+401,24-07-2021,13:25,"['Mocha', 'Cappucino', 'Americano', 'Flat white']","[75, 70, 50, 70]",Medse
+402,24-07-2021,13:26,"['Latte', 'Latte']","[70, 70]",Medse
+403,24-07-2021,13:26,['Cappucino'],[70],Medse
+404,24-07-2021,13:39,"['Pour-over normal', 'Cappucino']","[100, 70]",Medse
+405,24-07-2021,13:57,['Coffee beans special 200'],[600],Medse
+406,24-07-2021,14:20,"['Pour-over special', 'Flat white']","[200, 70]",Medse
+407,24-07-2021,15:01,"['Pour-over normal', 'Latte', 'Espresso shot']","[100, 70, 30]",Medse
+408,24-07-2021,15:18,"['Flat white', 'Latte']","[70, 70]",Medse
+409,24-07-2021,15:43,['Macchiato'],[75],Medse
+410,24-07-2021,16:31,['Coffee beans 200'],[400],Medse
+411,24-07-2021,16:38,"['Pour-over special', 'Flat white', 'Coffee beans 200']","[200, 70, 400]",Medse
+412,24-07-2021,7:50,"['Pour-over special', 'Latte']","[200, 70]",Medse
+413,24-07-2021,7:56,['Latte'],[70],Medse
+414,24-07-2021,8:14,"['Pour-over normal', 'Espresso shot']","[100, 30]",Medse
+415,24-07-2021,8:50,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Medse
+416,24-07-2021,9:32,['Cappucino'],[70],Medse
+417,24-07-2021,9:33,['Latte'],[70],Medse
+418,25-07-2021,10:13,['Coffee beans 200'],[400],Medse
+419,25-07-2021,11:29,['Espresso shot'],[30],Medse
+420,25-07-2021,11:33,"['Cappucino', 'Coffee beans 200']","[70, 400]",Medse
+421,25-07-2021,12:10,['Pour-over special'],[200],Medse
+422,25-07-2021,13:19,"['Pour-over special', 'Espresso shot']","[200, 30]",Medse
+423,25-07-2021,13:33,['Cappucino'],[70],Medse
+424,25-07-2021,13:45,['Pour-over normal'],[100],Medse
+425,25-07-2021,13:50,"['Flat white', 'Flat white', 'Pour-over normal']","[70, 70, 100]",Medse
+426,25-07-2021,14:49,"['Pour-over normal', 'Americano']","[100, 50]",Medse
+427,25-07-2021,15:59,"['Pour-over normal', 'Pour-over special']","[100, 200]",Medse
+428,25-07-2021,16:02,"['Pour-over normal', 'Espresso shot']","[100, 30]",Medse
+429,25-07-2021,16:46,['Pour-over normal'],[100],Medse
+430,25-07-2021,16:56,['Coffee beans 200'],[400],Medse
+431,25-07-2021,7:39,['Pour-over normal'],[100],Medse
+432,25-07-2021,8:00,['Latte'],[70],Medse
+433,25-07-2021,8:56,"['Espresso shot', 'Cappucino', 'Pour-over special']","[30, 70, 200]",Medse
+434,25-07-2021,9:12,"['Latte', 'Latte']","[70, 70]",Medse
+435,25-07-2021,9:26,['Pour-over special'],[200],Medse
+436,25-07-2021,9:54,['Cappucino'],[70],Medse
+437,26-07-2021,10:24,"['Coffee beans 200', 'Pour-over special']","[400, 200]",Rambo
+438,26-07-2021,11:02,['Pour-over special'],[200],Rambo
+439,26-07-2021,11:59,['Espresso shot'],[30],Rambo
+440,26-07-2021,12:13,"['Latte', 'Cappucino', 'Pour-over special']","[70, 70, 200]",Rambo
+441,26-07-2021,12:22,['Espresso shot'],[30],Rambo
+442,26-07-2021,12:44,['Cappucino'],[70],Rambo
+443,26-07-2021,13:19,['Flat white'],[70],Rambo
+444,26-07-2021,13:51,"['Pour-over normal', 'Mocha']","[100, 75]",Rambo
+445,26-07-2021,14:14,"['Flat white', 'Coffee beans special 200', 'Cappucino']","[70, 600, 70]",Rambo
+446,26-07-2021,14:36,"['Pour-over normal', 'Flat white', 'Mocha']","[100, 70, 75]",Rambo
+447,26-07-2021,14:46,['Americano'],[50],Rambo
+448,26-07-2021,15:07,['Flat white'],[70],Rambo
+449,26-07-2021,15:22,['Coffee beans 200'],[400],Rambo
+450,26-07-2021,15:31,['Coffee beans special 200'],[600],Rambo
+451,26-07-2021,15:51,['Flat white'],[70],Rambo
+452,26-07-2021,16:01,['Cappucino'],[70],Rambo
+453,26-07-2021,16:19,"['Pour-over normal', 'Americano']","[100, 50]",Rambo
+454,26-07-2021,16:27,['Americano'],[50],Rambo
+455,26-07-2021,7:04,['Coffee beans special 200'],[600],Rambo
+456,26-07-2021,7:27,['Flat white'],[70],Rambo
+457,26-07-2021,8:04,['Latte'],[70],Rambo
+458,26-07-2021,8:14,['Espresso shot'],[30],Rambo
+459,26-07-2021,9:14,"['Americano', 'Flat white']","[50, 70]",Rambo
+460,26-07-2021,9:50,"['Cappucino', 'Americano', 'Cappucino']","[70, 50, 70]",Rambo
+461,27-07-2021,10:42,"['Flat white', 'Pour-over normal', 'Espresso shot']","[70, 100, 30]",Penguin
+462,27-07-2021,11:02,['Pour-over special'],[200],Penguin
+463,27-07-2021,11:38,"['Cappucino', 'Coffee beans 200', 'Mocha']","[70, 400, 75]",Penguin
+464,27-07-2021,11:43,['Pour-over special'],[200],Penguin
+465,27-07-2021,11:50,"['Americano', 'Coffee beans special 200', 'Cappucino']","[50, 600, 70]",Penguin
+466,27-07-2021,12:22,['Pour-over normal'],[100],Penguin
+467,27-07-2021,13:14,['Cappucino'],[70],Penguin
+468,27-07-2021,14:37,['Macchiato'],[75],Penguin
+469,27-07-2021,7:35,['Pour-over special'],[200],Penguin
+470,27-07-2021,8:24,"['Latte', 'Pour-over special', 'Pour-over normal']","[70, 200, 100]",Penguin
+471,28-07-2021,10:02,"['Latte', 'Pour-over special']","[70, 200]",Rambo
+472,28-07-2021,10:06,['Pour-over normal'],[100],Rambo
+473,28-07-2021,10:25,['Americano'],[50],Rambo
+474,28-07-2021,10:34,['Macchiato'],[75],Rambo
+475,28-07-2021,10:59,"['Latte', 'Espresso shot', 'Pour-over special', 'Pour-over normal', 'Pour-over normal']","[70, 30, 200, 100, 100]",Rambo
+476,28-07-2021,11:24,['Flat white'],[70],Rambo
+477,28-07-2021,12:08,"['Latte', 'Pour-over normal', 'Mocha']","[70, 100, 75]",Rambo
+478,28-07-2021,12:10,"['Latte', 'Pour-over special', 'Pour-over special']","[70, 200, 200]",Rambo
+479,28-07-2021,12:54,"['Pour-over special', 'Latte']","[200, 70]",Rambo
+480,28-07-2021,12:59,['Latte'],[70],Rambo
+481,28-07-2021,13:53,"['Flat white', 'Latte']","[70, 70]",Rambo
+482,28-07-2021,14:03,"['Americano', 'Pour-over normal', 'Pour-over special']","[50, 100, 200]",Rambo
+483,28-07-2021,14:04,"['Pour-over special', 'Americano', 'Americano']","[200, 50, 50]",Rambo
+484,28-07-2021,15:10,"['Pour-over normal', 'Latte']","[100, 70]",Rambo
+485,28-07-2021,15:17,['Mocha'],[75],Rambo
+486,28-07-2021,15:32,['Flat white'],[70],Rambo
+487,28-07-2021,16:01,"['Coffee beans special 200', 'Macchiato']","[600, 75]",Rambo
+488,28-07-2021,16:06,"['Coffee beans special 200', 'Macchiato', 'Pour-over special', 'Flat white', 'Cappucino']","[600, 75, 200, 70, 70]",Rambo
+489,28-07-2021,16:12,"['Coffee beans special 200', 'Coffee beans special 200', 'Cappucino']","[600, 600, 70]",Rambo
+490,28-07-2021,7:12,"['Coffee beans special 200', 'Mocha']","[600, 75]",Rambo
+491,28-07-2021,7:36,['Americano'],[50],Rambo
+492,28-07-2021,7:53,"['Latte', 'Cappucino']","[70, 70]",Rambo
+493,28-07-2021,8:05,"['Pour-over special', 'Americano', 'Mocha']","[200, 50, 75]",Rambo
+494,28-07-2021,8:15,['Americano'],[50],Rambo
+495,28-07-2021,8:29,"['Pour-over special', 'Pour-over normal', 'Pour-over normal', 'Americano', 'Americano']","[200, 100, 100, 50, 50]",Rambo
+496,28-07-2021,8:56,['Coffee beans 200'],[400],Rambo
+497,28-07-2021,9:23,"['Pour-over special', 'Americano']","[200, 50]",Rambo
+498,28-07-2021,9:37,"['Pour-over special', 'Mocha']","[200, 75]",Rambo
+499,29-07-2021,10:00,['Latte'],[70],Penguin
+500,29-07-2021,10:31,['Pour-over normal'],[100],Penguin
+501,29-07-2021,10:35,"['Pour-over normal', 'Pour-over normal', 'Cappucino']","[100, 100, 70]",Penguin
+502,29-07-2021,11:27,"['Latte', 'Espresso shot']","[70, 30]",Penguin
+503,29-07-2021,11:35,['Latte'],[70],Penguin
+504,29-07-2021,11:39,"['Cappucino', 'Pour-over normal']","[70, 100]",Penguin
+505,29-07-2021,11:40,['Pour-over normal'],[100],Penguin
+506,29-07-2021,11:46,['Flat white'],[70],Penguin
+507,29-07-2021,11:59,"['Pour-over special', 'Pour-over normal']","[200, 100]",Penguin
+508,29-07-2021,12:00,"['Latte', 'Pour-over normal', 'Americano', 'Latte']","[70, 100, 50, 70]",Penguin
+509,29-07-2021,12:14,"['Pour-over normal', 'Pour-over special']","[100, 200]",Penguin
+510,29-07-2021,12:26,"['Pour-over special', 'Flat white']","[200, 70]",Penguin
+511,29-07-2021,12:46,['Cappucino'],[70],Penguin
+512,29-07-2021,13:15,"['Latte', 'Americano', 'Latte']","[70, 50, 70]",Penguin
+513,29-07-2021,13:21,['Pour-over special'],[200],Penguin
+514,29-07-2021,13:23,"['Latte', 'Macchiato']","[70, 75]",Penguin
+515,29-07-2021,13:47,"['Flat white', 'Macchiato']","[70, 75]",Penguin
+516,29-07-2021,14:05,"['Coffee beans 200', 'Latte', 'Flat white']","[400, 70, 70]",Penguin
+517,29-07-2021,14:57,['Americano'],[50],Penguin
+518,29-07-2021,15:26,['Mocha'],[75],Penguin
+519,29-07-2021,15:51,"['Americano', 'Americano']","[50, 50]",Penguin
+520,29-07-2021,16:01,['Americano'],[50],Penguin
+521,29-07-2021,16:27,['Americano'],[50],Penguin
+522,29-07-2021,7:44,['Pour-over special'],[200],Penguin
+523,29-07-2021,8:03,"['Coffee beans 200', 'Cappucino', 'Pour-over special', 'Americano']","[400, 70, 200, 50]",Penguin
+524,29-07-2021,8:03,"['Latte', 'Pour-over special']","[70, 200]",Penguin
+525,29-07-2021,8:40,"['Flat white', 'Pour-over special', 'Cappucino', 'Coffee beans 200', 'Pour-over normal']","[70, 200, 70, 400, 100]",Penguin
+526,29-07-2021,9:05,['Americano'],[50],Penguin
+527,29-07-2021,9:24,"['Coffee beans special 200', 'Flat white']","[600, 70]",Penguin
+528,30-07-2021,12:09,['Macchiato'],[75],Rambo
+529,30-07-2021,12:59,['Cappucino'],[70],Rambo
+530,30-07-2021,13:26,"['Cappucino', 'Americano', 'Pour-over normal', 'Pour-over special', 'Cappucino']","[70, 50, 100, 200, 70]",Rambo
+531,30-07-2021,14:41,"['Cappucino', 'Pour-over special', 'Pour-over normal', 'Flat white']","[70, 200, 100, 70]",Rambo
+532,30-07-2021,14:50,"['Coffee beans 200', 'Latte']","[400, 70]",Rambo
+533,30-07-2021,15:27,['Espresso shot'],[30],Rambo
+534,30-07-2021,7:28,"['Espresso shot', 'Pour-over normal']","[30, 100]",Rambo
+535,30-07-2021,7:35,['Cappucino'],[70],Rambo
+536,30-07-2021,8:05,"['Pour-over normal', 'Mocha']","[100, 75]",Rambo
+537,31-07-2021,10:40,['Espresso shot'],[30],Medse
+538,31-07-2021,10:41,"['Latte', 'Cappucino']","[70, 70]",Medse
+539,31-07-2021,11:24,['Pour-over normal'],[100],Medse
+540,31-07-2021,12:01,"['Pour-over normal', 'Coffee beans 200']","[100, 400]",Medse
+541,31-07-2021,13:27,['Coffee beans special 200'],[600],Medse
+542,31-07-2021,15:07,['Pour-over normal'],[100],Medse
+543,31-07-2021,16:48,['Flat white'],[70],Medse
+544,31-07-2021,7:05,['Mocha'],[75],Medse
+545,31-07-2021,7:09,['Coffee beans special 200'],[600],Medse
+546,31-07-2021,7:31,['Espresso shot'],[30],Medse
+547,31-07-2021,8:05,"['Latte', 'Cappucino']","[70, 70]",Medse
+548,31-07-2021,8:06,"['Flat white', 'Americano', 'Latte', 'Coffee beans special 200', 'Mocha']","[70, 50, 70, 600, 75]",Medse
+549,31-07-2021,8:14,"['Latte', 'Macchiato', 'Pour-over normal']","[70, 75, 100]",Medse
+550,31-07-2021,8:56,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Medse
+551,01-08-2021,10:11,['Coffee beans 200'],[400],Medse
+552,01-08-2021,11:23,['Pour-over normal'],[100],Medse
+553,01-08-2021,11:27,"['Espresso shot', 'Americano', 'Pour-over special', 'Americano', 'Coffee beans 200']","[30, 50, 200, 50, 400]",Medse
+554,01-08-2021,12:06,['Pour-over normal'],[100],Medse
+555,01-08-2021,13:12,"['Mocha', 'Pour-over normal', 'Flat white', 'Mocha']","[75, 100, 70, 75]",Medse
+556,01-08-2021,14:05,"['Cappucino', 'Pour-over special']","[70, 200]",Medse
+557,01-08-2021,15:12,['Pour-over normal'],[100],Medse
+558,01-08-2021,16:01,"['Americano', 'Cappucino', 'Pour-over special']","[50, 70, 200]",Medse
+559,01-08-2021,16:02,"['Pour-over special', 'Pour-over normal', 'Coffee beans special 200']","[200, 100, 600]",Medse
+560,01-08-2021,7:32,['Coffee beans special 200'],[600],Medse
+561,01-08-2021,7:55,"['Americano', 'Americano', 'Pour-over special', 'Americano']","[50, 50, 200, 50]",Medse
+562,01-08-2021,8:24,"['Coffee beans 200', 'Latte']","[400, 70]",Medse
+563,01-08-2021,9:04,['Mocha'],[75],Medse
+564,01-08-2021,9:12,['Cappucino'],[70],Medse
+565,02-08-2021,11:08,['Macchiato'],[75],Rambo
+566,02-08-2021,11:51,"['Coffee beans special 200', 'Pour-over normal']","[600, 100]",Rambo
+567,02-08-2021,12:13,['Pour-over normal'],[100],Rambo
+568,02-08-2021,12:17,"['Latte', 'Macchiato', 'Pour-over normal', 'Flat white', 'Flat white']","[70, 75, 100, 70, 70]",Rambo
+569,02-08-2021,12:28,"['Flat white', 'Mocha']","[70, 75]",Rambo
+570,02-08-2021,12:50,['Latte'],[70],Rambo
+571,02-08-2021,13:18,['Espresso shot'],[30],Rambo
+572,02-08-2021,13:24,['Flat white'],[70],Rambo
+573,02-08-2021,13:29,['Pour-over special'],[200],Rambo
+574,02-08-2021,15:02,['Americano'],[50],Rambo
+575,02-08-2021,15:42,['Latte'],[70],Rambo
+576,02-08-2021,15:47,['Pour-over normal'],[100],Rambo
+577,02-08-2021,16:31,['Latte'],[70],Rambo
+578,02-08-2021,16:42,"['Pour-over normal', 'Americano']","[100, 50]",Rambo
+579,02-08-2021,16:57,"['Pour-over normal', 'Cappucino', 'Pour-over normal']","[100, 70, 100]",Rambo
+580,02-08-2021,7:57,['Americano'],[50],Rambo
+581,02-08-2021,8:20,"['Americano', 'Pour-over normal', 'Macchiato']","[50, 100, 75]",Rambo
+582,02-08-2021,9:54,"['Coffee beans special 200', 'Flat white', 'Americano']","[600, 70, 50]",Rambo
+583,03-08-2021,11:04,['Pour-over special'],[200],Penguin
+584,03-08-2021,11:23,"['Cappucino', 'Mocha']","[70, 75]",Penguin
+585,03-08-2021,11:51,['Mocha'],[75],Penguin
+586,03-08-2021,12:24,"['Espresso shot', 'Americano']","[30, 50]",Penguin
+587,03-08-2021,12:28,"['Pour-over normal', 'Pour-over normal', 'Cappucino', 'Pour-over special', 'Latte']","[100, 100, 70, 200, 70]",Penguin
+588,03-08-2021,13:22,"['Pour-over normal', 'Latte']","[100, 70]",Penguin
+589,03-08-2021,13:55,['Latte'],[70],Penguin
+590,03-08-2021,14:15,"['Pour-over normal', 'Coffee beans 200']","[100, 400]",Penguin
+591,03-08-2021,15:14,['Latte'],[70],Penguin
+592,03-08-2021,15:37,"['Pour-over normal', 'Coffee beans 200']","[100, 400]",Penguin
+593,03-08-2021,8:18,"['Coffee beans special 200', 'Pour-over normal']","[600, 100]",Penguin
+594,03-08-2021,8:33,['Pour-over normal'],[100],Penguin
+595,03-08-2021,8:46,"['Pour-over normal', 'Pour-over special']","[100, 200]",Penguin
+596,03-08-2021,9:01,"['Coffee beans 200', 'Espresso shot']","[400, 30]",Penguin
+597,04-08-2021,10:08,"['Coffee beans special 200', 'Pour-over special']","[600, 200]",Rambo
+598,04-08-2021,11:16,"['Macchiato', 'Latte']","[75, 70]",Rambo
+599,04-08-2021,11:18,"['Flat white', 'Latte']","[70, 70]",Rambo
+600,04-08-2021,11:19,"['Americano', 'Espresso shot']","[50, 30]",Rambo
+601,04-08-2021,11:39,"['Coffee beans special 200', 'Cappucino']","[600, 70]",Rambo
+602,04-08-2021,13:20,"['Latte', 'Pour-over special', 'Flat white']","[70, 200, 70]",Rambo
+603,04-08-2021,15:45,['Pour-over special'],[200],Rambo
+604,04-08-2021,15:56,"['Flat white', 'Pour-over special', 'Flat white', 'Flat white']","[70, 200, 70, 70]",Rambo
+605,04-08-2021,16:18,['Pour-over normal'],[100],Rambo
+606,04-08-2021,16:38,"['Macchiato', 'Pour-over special', 'Pour-over normal', 'Pour-over normal']","[75, 200, 100, 100]",Rambo
+607,04-08-2021,7:15,['Macchiato'],[75],Rambo
+608,04-08-2021,7:27,['Cappucino'],[70],Rambo
+609,04-08-2021,7:36,['Pour-over special'],[200],Rambo
+610,04-08-2021,7:46,"['Flat white', 'Macchiato']","[70, 75]",Rambo
+611,04-08-2021,7:59,['Flat white'],[70],Rambo
+612,04-08-2021,9:15,['Pour-over special'],[200],Rambo
+613,05-08-2021,10:08,['Pour-over special'],[200],Penguin
+614,05-08-2021,11:13,['Latte'],[70],Penguin
+615,05-08-2021,11:26,['Americano'],[50],Penguin
+616,05-08-2021,11:47,['Latte'],[70],Penguin
+617,05-08-2021,14:46,"['Pour-over normal', 'Macchiato']","[100, 75]",Penguin
+618,05-08-2021,15:00,"['Americano', 'Pour-over normal']","[50, 100]",Penguin
+619,05-08-2021,15:38,"['Mocha', 'Mocha', 'Pour-over normal', 'Flat white', 'Latte']","[75, 75, 100, 70, 70]",Penguin
+620,05-08-2021,15:50,"['Latte', 'Cappucino', 'Americano']","[70, 70, 50]",Penguin
+621,05-08-2021,9:45,"['Coffee beans special 200', 'Pour-over special']","[600, 200]",Penguin
+622,06-08-2021,10:43,['Latte'],[70],Rambo
+623,06-08-2021,10:59,"['Pour-over normal', 'Latte', 'Macchiato', 'Pour-over normal', 'Cappucino']","[100, 70, 75, 100, 70]",Rambo
+624,06-08-2021,11:06,['Cappucino'],[70],Rambo
+625,06-08-2021,11:22,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Rambo
+626,06-08-2021,11:26,['Coffee beans special 200'],[600],Rambo
+627,06-08-2021,11:35,['Pour-over special'],[200],Rambo
+628,06-08-2021,12:45,"['Mocha', 'Latte']","[75, 70]",Rambo
+629,06-08-2021,13:38,"['Macchiato', 'Flat white', 'Pour-over special', 'Pour-over normal']","[75, 70, 200, 100]",Rambo
+630,06-08-2021,15:22,['Flat white'],[70],Rambo
+631,06-08-2021,15:24,['Coffee beans special 200'],[600],Rambo
+632,06-08-2021,15:43,['Americano'],[50],Rambo
+633,06-08-2021,16:05,"['Flat white', 'Americano']","[70, 50]",Rambo
+634,06-08-2021,16:21,['Pour-over normal'],[100],Rambo
+635,06-08-2021,16:57,['Pour-over normal'],[100],Rambo
+636,06-08-2021,7:13,"['Flat white', 'Pour-over normal']","[70, 100]",Rambo
+637,06-08-2021,8:17,['Latte'],[70],Rambo
+638,06-08-2021,8:33,"['Pour-over normal', 'Espresso shot']","[100, 30]",Rambo
+639,06-08-2021,9:27,"['Americano', 'Cappucino', 'Cappucino']","[50, 70, 70]",Rambo
+640,06-08-2021,9:41,['Latte'],[70],Rambo
+641,07-08-2021,10:15,"['Pour-over normal', 'Pour-over normal', 'Cappucino', 'Macchiato']","[100, 100, 70, 75]",Medse
+642,07-08-2021,10:20,['Cappucino'],[70],Medse
+643,07-08-2021,10:33,"['Pour-over normal', 'Pour-over special', 'Americano']","[100, 200, 50]",Medse
+644,07-08-2021,10:53,['Americano'],[50],Medse
+645,07-08-2021,11:26,['Latte'],[70],Medse
+646,07-08-2021,11:43,['Flat white'],[70],Medse
+647,07-08-2021,11:51,"['Cappucino', 'Coffee beans special 200', 'Pour-over normal', 'Flat white', 'Pour-over special']","[70, 600, 100, 70, 200]",Medse
+648,07-08-2021,12:02,"['Flat white', 'Pour-over normal']","[70, 100]",Medse
+649,07-08-2021,13:12,"['Pour-over normal', 'Cappucino']","[100, 70]",Medse
+650,07-08-2021,13:22,['Cappucino'],[70],Medse
+651,07-08-2021,13:54,"['Americano', 'Flat white']","[50, 70]",Medse
+652,07-08-2021,13:59,['Pour-over normal'],[100],Medse
+653,07-08-2021,14:01,"['Cappucino', 'Americano']","[70, 50]",Medse
+654,07-08-2021,14:09,"['Espresso shot', 'Pour-over normal']","[30, 100]",Medse
+655,07-08-2021,14:12,['Pour-over normal'],[100],Medse
+656,07-08-2021,15:09,['Pour-over special'],[200],Medse
+657,07-08-2021,15:26,"['Americano', 'Flat white']","[50, 70]",Medse
+658,07-08-2021,15:30,"['Coffee beans special 200', 'Coffee beans special 200']","[600, 600]",Medse
+659,07-08-2021,15:40,"['Latte', 'Macchiato', 'Cappucino', 'Cappucino', 'Pour-over normal']","[70, 75, 70, 70, 100]",Medse
+660,07-08-2021,15:58,"['Cappucino', 'Coffee beans special 200', 'Flat white']","[70, 600, 70]",Medse
+661,07-08-2021,16:17,['Latte'],[70],Medse
+662,07-08-2021,16:21,"['Pour-over normal', 'Cappucino']","[100, 70]",Medse
+663,07-08-2021,7:26,['Americano'],[50],Medse
+664,07-08-2021,7:52,['Latte'],[70],Medse
+665,07-08-2021,8:20,"['Cappucino', 'Mocha', 'Flat white']","[70, 75, 70]",Medse
+666,07-08-2021,8:29,['Pour-over special'],[200],Medse
+667,07-08-2021,8:54,"['Cappucino', 'Macchiato']","[70, 75]",Medse
+668,07-08-2021,9:18,['Latte'],[70],Medse
+669,07-08-2021,9:30,['Pour-over normal'],[100],Medse
+670,08-08-2021,10:04,['Macchiato'],[75],Medse
+671,08-08-2021,10:07,"['Flat white', 'Pour-over normal']","[70, 100]",Medse
+672,08-08-2021,11:00,['Americano'],[50],Medse
+673,08-08-2021,11:19,['Mocha'],[75],Medse
+674,08-08-2021,12:06,['Pour-over special'],[200],Medse
+675,08-08-2021,13:22,['Americano'],[50],Medse
+676,08-08-2021,14:02,['Cappucino'],[70],Medse
+677,08-08-2021,14:26,['Latte'],[70],Medse
+678,08-08-2021,15:33,"['Pour-over special', 'Cappucino']","[200, 70]",Medse
+679,08-08-2021,7:43,['Latte'],[70],Medse
+680,08-08-2021,8:08,['Coffee beans 200'],[400],Medse
+681,08-08-2021,8:08,"['Pour-over special', 'Pour-over special']","[200, 200]",Medse
+682,08-08-2021,8:09,"['Americano', 'Flat white']","[50, 70]",Medse
+683,08-08-2021,9:35,['Pour-over special'],[200],Medse
+684,08-08-2021,9:41,"['Macchiato', 'Coffee beans 200']","[75, 400]",Medse
+685,09-08-2021,10:02,['Pour-over normal'],[100],Rambo
+686,09-08-2021,10:02,['Pour-over normal'],[100],Rambo
+687,09-08-2021,10:18,"['Latte', 'Flat white', 'Pour-over special']","[70, 70, 200]",Rambo
+688,09-08-2021,10:21,['Macchiato'],[75],Rambo
+689,09-08-2021,10:21,['Pour-over special'],[200],Rambo
+690,09-08-2021,10:43,['Pour-over normal'],[100],Rambo
+691,09-08-2021,11:18,['Pour-over normal'],[100],Rambo
+692,09-08-2021,11:58,"['Pour-over normal', 'Flat white']","[100, 70]",Rambo
+693,09-08-2021,11:59,"['Coffee beans 200', 'Macchiato', 'Pour-over special', 'Americano', 'Macchiato']","[400, 75, 200, 50, 75]",Rambo
+694,09-08-2021,12:22,['Pour-over normal'],[100],Rambo
+695,09-08-2021,12:45,['Pour-over normal'],[100],Rambo
+696,09-08-2021,13:08,['Americano'],[50],Rambo
+697,09-08-2021,13:08,"['Cappucino', 'Latte', 'Coffee beans special 200', 'Cappucino']","[70, 70, 600, 70]",Rambo
+698,09-08-2021,14:05,['Americano'],[50],Rambo
+699,09-08-2021,14:59,['Cappucino'],[70],Rambo
+700,09-08-2021,15:00,"['Coffee beans 200', 'Americano']","[400, 50]",Rambo
+701,09-08-2021,15:05,"['Pour-over special', 'Cappucino']","[200, 70]",Rambo
+702,09-08-2021,15:32,['Pour-over normal'],[100],Rambo
+703,09-08-2021,15:54,"['Pour-over normal', 'Pour-over normal', 'Pour-over normal']","[100, 100, 100]",Rambo
+704,09-08-2021,16:24,['Coffee beans special 200'],[600],Rambo
+705,09-08-2021,16:40,['Macchiato'],[75],Rambo
+706,09-08-2021,7:27,['Espresso shot'],[30],Rambo
+707,09-08-2021,7:27,['Cappucino'],[70],Rambo
+708,09-08-2021,7:49,['Flat white'],[70],Rambo
+709,09-08-2021,8:15,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+710,09-08-2021,8:57,"['Cappucino', 'Pour-over special', 'Pour-over normal']","[70, 200, 100]",Rambo
+711,09-08-2021,8:58,"['Pour-over normal', 'Pour-over normal', 'Macchiato']","[100, 100, 75]",Rambo
+712,09-08-2021,9:24,['Americano'],[50],Rambo
+713,09-08-2021,9:33,['Pour-over normal'],[100],Rambo
+714,09-08-2021,9:37,"['Latte', 'Pour-over normal']","[70, 100]",Rambo
+715,10-08-2021,10:14,['Pour-over special'],[200],Penguin
+716,10-08-2021,10:16,['Espresso shot'],[30],Penguin
+717,10-08-2021,10:38,"['Cappucino', 'Pour-over special']","[70, 200]",Penguin
+718,10-08-2021,11:45,"['Americano', 'Coffee beans 200']","[50, 400]",Penguin
+719,10-08-2021,12:24,['Pour-over special'],[200],Penguin
+720,10-08-2021,12:31,"['Pour-over normal', 'Flat white', 'Mocha', 'Cappucino', 'Pour-over special']","[100, 70, 75, 70, 200]",Penguin
+721,10-08-2021,13:04,['Latte'],[70],Penguin
+722,10-08-2021,13:25,['Cappucino'],[70],Penguin
+723,10-08-2021,13:50,"['Pour-over normal', 'Cappucino']","[100, 70]",Penguin
+724,10-08-2021,15:07,"['Americano', 'Pour-over special']","[50, 200]",Penguin
+725,10-08-2021,15:14,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+726,10-08-2021,15:25,['Latte'],[70],Penguin
+727,10-08-2021,15:44,"['Macchiato', 'Latte']","[75, 70]",Penguin
+728,10-08-2021,16:35,['Flat white'],[70],Penguin
+729,10-08-2021,7:15,['Mocha'],[75],Penguin
+730,10-08-2021,7:56,"['Macchiato', 'Mocha', 'Flat white', 'Pour-over special', 'Pour-over normal']","[75, 75, 70, 200, 100]",Penguin
+731,10-08-2021,8:27,['Pour-over special'],[200],Penguin
+732,10-08-2021,9:05,"['Espresso shot', 'Flat white']","[30, 70]",Penguin
+733,10-08-2021,9:50,['Pour-over normal'],[100],Penguin
+734,11-08-2021,10:18,"['Latte', 'Americano', 'Latte', 'Pour-over normal']","[70, 50, 70, 100]",Rambo
+735,11-08-2021,10:32,"['Flat white', 'Pour-over normal', 'Cappucino']","[70, 100, 70]",Rambo
+736,11-08-2021,10:59,['Coffee beans special 200'],[600],Rambo
+737,11-08-2021,11:04,['Pour-over normal'],[100],Rambo
+738,11-08-2021,11:33,"['Pour-over normal', 'Espresso shot', 'Americano']","[100, 30, 50]",Rambo
+739,11-08-2021,11:44,"['Americano', 'Flat white', 'Pour-over special', 'Coffee beans 200', 'Pour-over normal']","[50, 70, 200, 400, 100]",Rambo
+740,11-08-2021,13:48,"['Espresso shot', 'Latte']","[30, 70]",Rambo
+741,11-08-2021,13:52,['Cappucino'],[70],Rambo
+742,11-08-2021,13:56,"['Latte', 'Flat white']","[70, 70]",Rambo
+743,11-08-2021,14:12,"['Americano', 'Coffee beans special 200', 'Latte']","[50, 600, 70]",Rambo
+744,11-08-2021,14:30,['Coffee beans special 200'],[600],Rambo
+745,11-08-2021,14:51,"['Pour-over special', 'Flat white', 'Pour-over special', 'Pour-over special', 'Cappucino']","[200, 70, 200, 200, 70]",Rambo
+746,11-08-2021,15:19,"['Espresso shot', 'Cappucino', 'Pour-over normal', 'Cappucino', 'Americano']","[30, 70, 100, 70, 50]",Rambo
+747,11-08-2021,15:32,['Cappucino'],[70],Rambo
+748,11-08-2021,16:08,"['Americano', 'Pour-over normal']","[50, 100]",Rambo
+749,11-08-2021,16:38,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+750,11-08-2021,16:40,['Cappucino'],[70],Rambo
+751,11-08-2021,16:53,['Coffee beans special 200'],[600],Rambo
+752,11-08-2021,16:55,"['Flat white', 'Cappucino', 'Latte']","[70, 70, 70]",Rambo
+753,11-08-2021,7:02,['Pour-over normal'],[100],Rambo
+754,11-08-2021,7:07,"['Pour-over normal', 'Coffee beans 200', 'Latte', 'Americano']","[100, 400, 70, 50]",Rambo
+755,11-08-2021,7:25,['Pour-over special'],[200],Rambo
+756,11-08-2021,7:46,"['Pour-over special', 'Pour-over normal']","[200, 100]",Rambo
+757,11-08-2021,8:13,['Cappucino'],[70],Rambo
+758,11-08-2021,8:41,"['Mocha', 'Mocha']","[75, 75]",Rambo
+759,11-08-2021,8:51,['Pour-over special'],[200],Rambo
+760,11-08-2021,9:02,['Americano'],[50],Rambo
+761,11-08-2021,9:05,['Pour-over normal'],[100],Rambo
+762,11-08-2021,9:20,"['Cappucino', 'Pour-over normal']","[70, 100]",Rambo
+763,12-08-2021,11:27,"['Pour-over normal', 'Mocha']","[100, 75]",Penguin
+764,12-08-2021,13:04,['Latte'],[70],Penguin
+765,12-08-2021,14:38,"['Pour-over special', 'Pour-over normal']","[200, 100]",Penguin
+766,12-08-2021,15:17,"['Cappucino', 'Flat white']","[70, 70]",Penguin
+767,12-08-2021,7:57,"['Pour-over normal', 'Pour-over normal', 'Coffee beans special 200', 'Americano', 'Pour-over normal']","[100, 100, 600, 50, 100]",Penguin
+768,12-08-2021,8:22,['Pour-over normal'],[100],Penguin
+769,12-08-2021,8:32,['Pour-over normal'],[100],Penguin
+770,13-08-2021,10:35,"['Macchiato', 'Latte']","[75, 70]",Rambo
+771,13-08-2021,12:49,"['Pour-over normal', 'Macchiato']","[100, 75]",Rambo
+772,13-08-2021,13:45,"['Latte', 'Pour-over normal']","[70, 100]",Rambo
+773,13-08-2021,14:10,"['Pour-over special', 'Latte', 'Coffee beans special 200', 'Pour-over special']","[200, 70, 600, 200]",Rambo
+774,13-08-2021,14:26,"['Pour-over normal', 'Coffee beans special 200']","[100, 600]",Rambo
+775,13-08-2021,15:01,['Cappucino'],[70],Rambo
+776,13-08-2021,15:14,['Coffee beans special 200'],[600],Rambo
+777,13-08-2021,16:46,['Pour-over normal'],[100],Rambo
+778,13-08-2021,7:26,['Latte'],[70],Rambo
+779,13-08-2021,8:33,"['Pour-over special', 'Americano']","[200, 50]",Rambo
+780,14-08-2021,10:35,"['Latte', 'Pour-over special']","[70, 200]",Medse
+781,14-08-2021,11:26,"['Pour-over special', 'Pour-over special']","[200, 200]",Medse
+782,14-08-2021,11:52,['Cappucino'],[70],Medse
+783,14-08-2021,12:05,"['Flat white', 'Flat white', 'Coffee beans 200', 'Pour-over normal']","[70, 70, 400, 100]",Medse
+784,14-08-2021,12:19,"['Flat white', 'Americano']","[70, 50]",Medse
+785,14-08-2021,12:33,['Americano'],[50],Medse
+786,14-08-2021,12:53,"['Pour-over special', 'Pour-over normal', 'Americano']","[200, 100, 50]",Medse
+787,14-08-2021,13:33,"['Pour-over special', 'Cappucino']","[200, 70]",Medse
+788,14-08-2021,13:36,['Pour-over special'],[200],Medse
+789,14-08-2021,13:41,"['Pour-over normal', 'Cappucino', 'Pour-over special']","[100, 70, 200]",Medse
+790,14-08-2021,15:40,"['Pour-over special', 'Pour-over normal', 'Cappucino', 'Latte', 'Pour-over special']","[200, 100, 70, 70, 200]",Medse
+791,14-08-2021,16:01,"['Americano', 'Pour-over normal']","[50, 100]",Medse
+792,14-08-2021,16:11,"['Latte', 'Pour-over special']","[70, 200]",Medse
+793,14-08-2021,16:18,['Pour-over special'],[200],Medse
+794,14-08-2021,7:52,"['Pour-over special', 'Pour-over special', 'Pour-over normal', 'Americano']","[200, 200, 100, 50]",Medse
+795,14-08-2021,7:55,"['Latte', 'Pour-over normal']","[70, 100]",Medse
+796,14-08-2021,8:23,['Cappucino'],[70],Medse
+797,14-08-2021,8:59,"['Flat white', 'Pour-over special']","[70, 200]",Medse
+798,15-08-2021,10:49,"['Latte', 'Americano', 'Pour-over normal', 'Cappucino']","[70, 50, 100, 70]",Medse
+799,15-08-2021,10:55,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Medse
+800,15-08-2021,10:59,"['Pour-over normal', 'Mocha', 'Americano', 'Americano', 'Pour-over normal']","[100, 75, 50, 50, 100]",Medse
+801,15-08-2021,11:12,"['Pour-over normal', 'Cappucino']","[100, 70]",Medse
+802,15-08-2021,11:39,['Americano'],[50],Medse
+803,15-08-2021,11:40,['Coffee beans special 200'],[600],Medse
+804,15-08-2021,11:42,"['Flat white', 'Pour-over normal', 'Coffee beans 200', 'Pour-over special', 'Pour-over normal']","[70, 100, 400, 200, 100]",Medse
+805,15-08-2021,12:36,['Flat white'],[70],Medse
+806,15-08-2021,12:43,"['Pour-over normal', 'Americano', 'Americano', 'Americano']","[100, 50, 50, 50]",Medse
+807,15-08-2021,13:13,"['Americano', 'Macchiato', 'Pour-over special', 'Pour-over normal']","[50, 75, 200, 100]",Medse
+808,15-08-2021,13:47,['Cappucino'],[70],Medse
+809,15-08-2021,14:00,"['Mocha', 'Americano']","[75, 50]",Medse
+810,15-08-2021,15:01,['Pour-over special'],[200],Medse
+811,15-08-2021,15:17,['Coffee beans 200'],[400],Medse
+812,15-08-2021,15:24,"['Mocha', 'Pour-over special', 'Macchiato', 'Pour-over normal', 'Mocha']","[75, 200, 75, 100, 75]",Medse
+813,15-08-2021,16:02,"['Latte', 'Flat white']","[70, 70]",Medse
+814,15-08-2021,16:13,"['Pour-over special', 'Flat white']","[200, 70]",Medse
+815,15-08-2021,16:27,['Cappucino'],[70],Medse
+816,15-08-2021,16:52,"['Latte', 'Americano']","[70, 50]",Medse
+817,15-08-2021,16:55,['Latte'],[70],Medse
+818,15-08-2021,16:55,['Coffee beans 200'],[400],Medse
+819,15-08-2021,7:15,"['Flat white', 'Americano', 'Latte', 'Espresso shot']","[70, 50, 70, 30]",Medse
+820,15-08-2021,7:38,['Pour-over special'],[200],Medse
+821,15-08-2021,7:48,"['Espresso shot', 'Pour-over normal']","[30, 100]",Medse
+822,15-08-2021,8:40,"['Americano', 'Pour-over special', 'Coffee beans 200']","[50, 200, 400]",Medse
+823,15-08-2021,8:45,['Pour-over normal'],[100],Medse
+824,15-08-2021,8:54,"['Latte', 'Flat white']","[70, 70]",Medse
+825,16-08-2021,10:56,"['Pour-over normal', 'Pour-over normal', 'Pour-over normal']","[100, 100, 100]",Rambo
+826,16-08-2021,10:57,['Cappucino'],[70],Rambo
+827,16-08-2021,10:59,['Latte'],[70],Rambo
+828,16-08-2021,11:54,['Pour-over special'],[200],Rambo
+829,16-08-2021,12:35,"['Macchiato', 'Americano', 'Pour-over normal', 'Flat white']","[75, 50, 100, 70]",Rambo
+830,16-08-2021,13:02,"['Flat white', 'Pour-over normal', 'Flat white']","[70, 100, 70]",Rambo
+831,16-08-2021,14:37,"['Flat white', 'Mocha', 'Pour-over normal', 'Pour-over special', 'Pour-over special']","[70, 75, 100, 200, 200]",Rambo
+832,16-08-2021,14:48,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Rambo
+833,16-08-2021,15:10,['Pour-over normal'],[100],Rambo
+834,16-08-2021,15:20,"['Pour-over special', 'Pour-over special', 'Cappucino']","[200, 200, 70]",Rambo
+835,16-08-2021,15:32,['Macchiato'],[75],Rambo
+836,16-08-2021,15:51,['Cappucino'],[70],Rambo
+837,16-08-2021,7:11,"['Macchiato', 'Pour-over normal']","[75, 100]",Rambo
+838,16-08-2021,7:46,"['Pour-over special', 'Flat white', 'Espresso shot', 'Pour-over normal']","[200, 70, 30, 100]",Rambo
+839,16-08-2021,7:47,['Pour-over special'],[200],Rambo
+840,16-08-2021,8:04,['Latte'],[70],Rambo
+841,16-08-2021,8:14,"['Coffee beans special 200', 'Flat white']","[600, 70]",Rambo
+842,16-08-2021,9:32,"['Flat white', 'Flat white']","[70, 70]",Rambo
+843,17-08-2021,10:59,['Coffee beans 200'],[400],Penguin
+844,17-08-2021,14:30,['Flat white'],[70],Penguin
+845,17-08-2021,14:47,['Americano'],[50],Penguin
+846,17-08-2021,16:31,"['Pour-over special', 'Cappucino', 'Latte', 'Pour-over normal']","[200, 70, 70, 100]",Penguin
+847,17-08-2021,16:33,['Pour-over normal'],[100],Penguin
+848,17-08-2021,16:43,['Pour-over special'],[200],Penguin
+849,17-08-2021,7:42,"['Cappucino', 'Americano']","[70, 50]",Penguin
+850,17-08-2021,9:37,"['Pour-over normal', 'Pour-over special']","[100, 200]",Penguin
+851,17-08-2021,9:40,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+852,18-08-2021,10:19,['Cappucino'],[70],Rambo
+853,18-08-2021,10:22,['Latte'],[70],Rambo
+854,18-08-2021,10:47,"['Flat white', 'Latte', 'Macchiato', 'Americano']","[70, 70, 75, 50]",Rambo
+855,18-08-2021,10:48,"['Cappucino', 'Cappucino']","[70, 70]",Rambo
+856,18-08-2021,10:57,"['Pour-over special', 'Flat white']","[200, 70]",Rambo
+857,18-08-2021,11:10,['Pour-over special'],[200],Rambo
+858,18-08-2021,11:23,"['Coffee beans 200', 'Americano']","[400, 50]",Rambo
+859,18-08-2021,13:34,"['Latte', 'Cappucino', 'Pour-over special', 'Mocha', 'Pour-over normal']","[70, 70, 200, 75, 100]",Rambo
+860,18-08-2021,13:37,"['Espresso shot', 'Pour-over special']","[30, 200]",Rambo
+861,18-08-2021,14:19,"['Americano', 'Pour-over normal', 'Latte']","[50, 100, 70]",Rambo
+862,18-08-2021,14:39,"['Macchiato', 'Pour-over normal']","[75, 100]",Rambo
+863,18-08-2021,15:11,['Pour-over special'],[200],Rambo
+864,18-08-2021,15:29,"['Pour-over special', 'Pour-over normal']","[200, 100]",Rambo
+865,18-08-2021,16:07,"['Latte', 'Cappucino']","[70, 70]",Rambo
+866,18-08-2021,16:28,['Coffee beans 200'],[400],Rambo
+867,18-08-2021,7:09,['Flat white'],[70],Rambo
+868,18-08-2021,7:18,['Mocha'],[75],Rambo
+869,18-08-2021,7:18,"['Latte', 'Pour-over special']","[70, 200]",Rambo
+870,18-08-2021,8:25,['Pour-over special'],[200],Rambo
+871,18-08-2021,8:30,"['Pour-over special', 'Latte']","[200, 70]",Rambo
+872,18-08-2021,9:29,['Americano'],[50],Rambo
+873,19-08-2021,10:22,"['Cappucino', 'Macchiato']","[70, 75]",Penguin
+874,19-08-2021,10:33,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+875,19-08-2021,10:37,['Espresso shot'],[30],Penguin
+876,19-08-2021,10:51,"['Macchiato', 'Coffee beans 200']","[75, 400]",Penguin
+877,19-08-2021,11:35,['Mocha'],[75],Penguin
+878,19-08-2021,11:47,['Coffee beans special 200'],[600],Penguin
+879,19-08-2021,12:20,"['Pour-over normal', 'Mocha']","[100, 75]",Penguin
+880,19-08-2021,12:36,"['Mocha', 'Pour-over normal', 'Pour-over normal']","[75, 100, 100]",Penguin
+881,19-08-2021,12:53,"['Coffee beans 200', 'Coffee beans special 200', 'Pour-over special', 'Flat white']","[400, 600, 200, 70]",Penguin
+882,19-08-2021,13:04,['Coffee beans special 200'],[600],Penguin
+883,19-08-2021,13:15,['Pour-over normal'],[100],Penguin
+884,19-08-2021,13:26,['Pour-over normal'],[100],Penguin
+885,19-08-2021,13:28,['Macchiato'],[75],Penguin
+886,19-08-2021,14:48,"['Flat white', 'Pour-over normal']","[70, 100]",Penguin
+887,19-08-2021,15:14,['Flat white'],[70],Penguin
+888,19-08-2021,15:18,['Flat white'],[70],Penguin
+889,19-08-2021,15:28,['Americano'],[50],Penguin
+890,19-08-2021,16:09,"['Cappucino', 'Americano']","[70, 50]",Penguin
+891,19-08-2021,16:24,"['Pour-over normal', 'Pour-over special']","[100, 200]",Penguin
+892,19-08-2021,16:47,"['Pour-over special', 'Espresso shot']","[200, 30]",Penguin
+893,19-08-2021,7:13,"['Flat white', 'Mocha', 'Pour-over normal']","[70, 75, 100]",Penguin
+894,19-08-2021,7:33,"['Latte', 'Cappucino', 'Mocha']","[70, 70, 75]",Penguin
+895,19-08-2021,8:09,"['Flat white', 'Latte']","[70, 70]",Penguin
+896,19-08-2021,8:23,"['Latte', 'Espresso shot', 'Coffee beans 200', 'Pour-over normal']","[70, 30, 400, 100]",Penguin
+897,19-08-2021,8:24,"['Pour-over normal', 'Flat white']","[100, 70]",Penguin
+898,19-08-2021,8:37,['Flat white'],[70],Penguin
+899,19-08-2021,9:58,"['Mocha', 'Pour-over normal']","[75, 100]",Penguin
+900,20-08-2021,11:24,['Cappucino'],[70],Rambo
+901,20-08-2021,11:29,['Coffee beans special 200'],[600],Rambo
+902,20-08-2021,11:35,"['Pour-over normal', 'Americano', 'Latte']","[100, 50, 70]",Rambo
+903,20-08-2021,12:01,['Espresso shot'],[30],Rambo
+904,20-08-2021,12:05,"['Cappucino', 'Latte']","[70, 70]",Rambo
+905,20-08-2021,12:13,"['Latte', 'Latte', 'Pour-over normal', 'Coffee beans 200', 'Latte']","[70, 70, 100, 400, 70]",Rambo
+906,20-08-2021,15:33,['Mocha'],[75],Rambo
+907,20-08-2021,15:55,['Pour-over special'],[200],Rambo
+908,20-08-2021,16:20,['Pour-over normal'],[100],Rambo
+909,20-08-2021,7:40,"['Macchiato', 'Latte', 'Flat white']","[75, 70, 70]",Rambo
+910,20-08-2021,7:41,"['Mocha', 'Mocha']","[75, 75]",Rambo
+911,20-08-2021,7:53,"['Coffee beans 200', 'Pour-over special', 'Pour-over special', 'Coffee beans special 200']","[400, 200, 200, 600]",Rambo
+912,20-08-2021,9:01,['Mocha'],[75],Rambo
+913,20-08-2021,9:10,['Americano'],[50],Rambo
+914,20-08-2021,9:12,['Latte'],[70],Rambo
+915,20-08-2021,9:46,['Pour-over normal'],[100],Rambo
+916,21-08-2021,10:10,"['Pour-over special', 'Pour-over special', 'Flat white']","[200, 200, 70]",Medse
+917,21-08-2021,10:14,['Cappucino'],[70],Medse
+918,21-08-2021,10:53,['Latte'],[70],Medse
+919,21-08-2021,11:16,['Coffee beans 200'],[400],Medse
+920,21-08-2021,11:34,['Coffee beans special 200'],[600],Medse
+921,21-08-2021,11:43,['Coffee beans special 200'],[600],Medse
+922,21-08-2021,11:54,"['Coffee beans 200', 'Coffee beans special 200', 'Espresso shot', 'Americano']","[400, 600, 30, 50]",Medse
+923,21-08-2021,11:59,"['Latte', 'Pour-over normal', 'Latte']","[70, 100, 70]",Medse
+924,21-08-2021,12:35,['Cappucino'],[70],Medse
+925,21-08-2021,12:41,"['Pour-over normal', 'Americano']","[100, 50]",Medse
+926,21-08-2021,13:21,"['Pour-over normal', 'Flat white', 'Americano']","[100, 70, 50]",Medse
+927,21-08-2021,13:43,['Americano'],[50],Medse
+928,21-08-2021,13:59,['Cappucino'],[70],Medse
+929,21-08-2021,14:55,"['Flat white', 'Pour-over normal', 'Coffee beans special 200']","[70, 100, 600]",Medse
+930,21-08-2021,15:19,"['Coffee beans 200', 'Pour-over normal', 'Espresso shot', 'Pour-over normal']","[400, 100, 30, 100]",Medse
+931,21-08-2021,15:25,"['Pour-over normal', 'Flat white']","[100, 70]",Medse
+932,21-08-2021,16:24,"['Coffee beans special 200', 'Pour-over special']","[600, 200]",Medse
+933,21-08-2021,7:04,"['Latte', 'Latte']","[70, 70]",Medse
+934,21-08-2021,7:26,"['Pour-over normal', 'Pour-over normal', 'Pour-over special', 'Macchiato']","[100, 100, 200, 75]",Medse
+935,21-08-2021,7:27,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Medse
+936,21-08-2021,7:27,"['Pour-over normal', 'Coffee beans special 200']","[100, 600]",Medse
+937,21-08-2021,8:13,"['Americano', 'Flat white', 'Latte', 'Cappucino']","[50, 70, 70, 70]",Medse
+938,21-08-2021,8:17,['Pour-over normal'],[100],Medse
+939,21-08-2021,9:11,['Flat white'],[70],Medse
+940,21-08-2021,9:42,['Pour-over special'],[200],Medse
+941,21-08-2021,9:55,"['Pour-over normal', 'Pour-over special', 'Espresso shot']","[100, 200, 30]",Medse
+942,21-08-2021,9:59,['Pour-over normal'],[100],Medse
+943,22-08-2021,11:25,"['Flat white', 'Mocha', 'Pour-over special']","[70, 75, 200]",Medse
+944,22-08-2021,11:56,['Americano'],[50],Medse
+945,22-08-2021,12:35,"['Flat white', 'Pour-over normal', 'Cappucino', 'Pour-over normal']","[70, 100, 70, 100]",Medse
+946,22-08-2021,13:09,['Flat white'],[70],Medse
+947,22-08-2021,13:23,['Pour-over special'],[200],Medse
+948,22-08-2021,13:24,['Pour-over normal'],[100],Medse
+949,22-08-2021,14:29,"['Flat white', 'Pour-over special']","[70, 200]",Medse
+950,22-08-2021,14:53,['Cappucino'],[70],Medse
+951,22-08-2021,14:59,"['Pour-over special', 'Espresso shot', 'Espresso shot']","[200, 30, 30]",Medse
+952,22-08-2021,15:16,['Pour-over special'],[200],Medse
+953,22-08-2021,15:45,"['Coffee beans 200', 'Latte']","[400, 70]",Medse
+954,22-08-2021,16:35,['Espresso shot'],[30],Medse
+955,22-08-2021,7:49,['Coffee beans special 200'],[600],Medse
+956,22-08-2021,8:13,['Pour-over special'],[200],Medse
+957,22-08-2021,8:36,['Americano'],[50],Medse
+958,22-08-2021,8:56,"['Coffee beans special 200', 'Latte', 'Pour-over normal']","[600, 70, 100]",Medse
+959,23-08-2021,10:58,"['Pour-over normal', 'Cappucino', 'Espresso shot']","[100, 70, 30]",Rambo
+960,23-08-2021,11:09,"['Espresso shot', 'Pour-over normal']","[30, 100]",Rambo
+961,23-08-2021,12:50,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+962,23-08-2021,12:52,['Pour-over normal'],[100],Rambo
+963,23-08-2021,13:31,['Pour-over normal'],[100],Rambo
+964,23-08-2021,14:11,['Mocha'],[75],Rambo
+965,23-08-2021,14:30,"['Mocha', 'Macchiato', 'Pour-over normal']","[75, 75, 100]",Rambo
+966,23-08-2021,14:55,['Pour-over normal'],[100],Rambo
+967,23-08-2021,14:57,"['Espresso shot', 'Pour-over normal']","[30, 100]",Rambo
+968,23-08-2021,15:30,"['Pour-over special', 'Espresso shot', 'Pour-over normal', 'Cappucino']","[200, 30, 100, 70]",Rambo
+969,23-08-2021,16:53,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+970,23-08-2021,7:50,['Pour-over normal'],[100],Rambo
+971,23-08-2021,7:56,"['Flat white', 'Pour-over special']","[70, 200]",Rambo
+972,23-08-2021,8:23,['Mocha'],[75],Rambo
+973,23-08-2021,8:46,['Americano'],[50],Rambo
+974,23-08-2021,8:51,"['Pour-over normal', 'Flat white', 'Espresso shot']","[100, 70, 30]",Rambo
+975,24-08-2021,10:05,['Latte'],[70],Penguin
+976,24-08-2021,10:06,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+977,24-08-2021,10:53,"['Mocha', 'Pour-over normal', 'Coffee beans special 200', 'Americano', 'Mocha']","[75, 100, 600, 50, 75]",Penguin
+978,24-08-2021,11:35,['Coffee beans special 200'],[600],Penguin
+979,24-08-2021,12:46,['Latte'],[70],Penguin
+980,24-08-2021,13:46,"['Latte', 'Pour-over special']","[70, 200]",Penguin
+981,24-08-2021,13:51,['Pour-over special'],[200],Penguin
+982,24-08-2021,13:59,"['Pour-over normal', 'Espresso shot']","[100, 30]",Penguin
+983,24-08-2021,14:02,"['Cappucino', 'Cappucino']","[70, 70]",Penguin
+984,24-08-2021,14:20,['Pour-over normal'],[100],Penguin
+985,24-08-2021,14:28,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+986,24-08-2021,14:38,"['Latte', 'Pour-over special']","[70, 200]",Penguin
+987,24-08-2021,14:47,"['Flat white', 'Pour-over special', 'Pour-over normal']","[70, 200, 100]",Penguin
+988,24-08-2021,15:31,['Pour-over normal'],[100],Penguin
+989,24-08-2021,15:38,"['Cappucino', 'Cappucino', 'Flat white', 'Macchiato', 'Pour-over special']","[70, 70, 70, 75, 200]",Penguin
+990,24-08-2021,16:14,['Latte'],[70],Penguin
+991,24-08-2021,7:04,['Pour-over normal'],[100],Penguin
+992,24-08-2021,7:25,['Mocha'],[75],Penguin
+993,24-08-2021,7:26,"['Pour-over normal', 'Cappucino']","[100, 70]",Penguin
+994,24-08-2021,9:03,"['Coffee beans special 200', 'Macchiato']","[600, 75]",Penguin
+995,24-08-2021,9:24,['Latte'],[70],Penguin
+996,24-08-2021,9:27,"['Espresso shot', 'Pour-over normal', 'Flat white']","[30, 100, 70]",Penguin
+997,24-08-2021,9:30,"['Coffee beans special 200', 'Pour-over special']","[600, 200]",Penguin
+998,24-08-2021,9:30,"['Americano', 'Pour-over normal', 'Americano', 'Cappucino', 'Pour-over normal']","[50, 100, 50, 70, 100]",Penguin
+999,24-08-2021,9:37,['Pour-over normal'],[100],Penguin
+1000,25-08-2021,10:36,['Macchiato'],[75],Rambo
+1001,25-08-2021,12:04,"['Pour-over normal', 'Pour-over normal', 'Coffee beans 200', 'Flat white']","[100, 100, 400, 70]",Rambo
+1002,25-08-2021,12:10,['Pour-over special'],[200],Rambo
+1003,25-08-2021,12:31,['Latte'],[70],Rambo
+1004,25-08-2021,13:37,['Espresso shot'],[30],Rambo
+1005,25-08-2021,14:22,"['Pour-over special', 'Cappucino']","[200, 70]",Rambo
+1006,25-08-2021,14:31,['Pour-over normal'],[100],Rambo
+1007,25-08-2021,14:54,"['Cappucino', 'Mocha']","[70, 75]",Rambo
+1008,25-08-2021,7:23,"['Flat white', 'Flat white']","[70, 70]",Rambo
+1009,25-08-2021,8:07,['Pour-over normal'],[100],Rambo
+1010,25-08-2021,8:49,"['Pour-over normal', 'Cappucino']","[100, 70]",Rambo
+1011,25-08-2021,9:39,"['Pour-over normal', 'Coffee beans special 200', 'Cappucino']","[100, 600, 70]",Rambo
+1012,26-08-2021,12:19,['Americano'],[50],Penguin
+1013,26-08-2021,12:56,['Espresso shot'],[30],Penguin
+1014,26-08-2021,14:23,"['Latte', 'Mocha', 'Pour-over normal']","[70, 75, 100]",Penguin
+1015,26-08-2021,14:45,"['Coffee beans special 200', 'Pour-over normal']","[600, 100]",Penguin
+1016,26-08-2021,15:45,['Americano'],[50],Penguin
+1017,26-08-2021,15:47,['Coffee beans special 200'],[600],Penguin
+1018,26-08-2021,16:09,"['Pour-over special', 'Pour-over special']","[200, 200]",Penguin
+1019,26-08-2021,7:01,"['Coffee beans 200', 'Pour-over special']","[400, 200]",Penguin
+1020,26-08-2021,8:01,"['Cappucino', 'Americano']","[70, 50]",Penguin
+1021,26-08-2021,8:32,['Flat white'],[70],Penguin
+1022,26-08-2021,8:37,"['Cappucino', 'Pour-over normal']","[70, 100]",Penguin
+1023,26-08-2021,9:07,['Americano'],[50],Penguin
+1024,26-08-2021,9:58,"['Pour-over normal', 'Coffee beans 200']","[100, 400]",Penguin
+1025,27-08-2021,10:54,"['Pour-over special', 'Pour-over special', 'Cappucino', 'Americano', 'Americano']","[200, 200, 70, 50, 50]",Rambo
+1026,27-08-2021,11:55,['Cappucino'],[70],Rambo
+1027,27-08-2021,12:01,['Americano'],[50],Rambo
+1028,27-08-2021,14:32,['Latte'],[70],Rambo
+1029,27-08-2021,14:37,"['Pour-over special', 'Americano']","[200, 50]",Rambo
+1030,27-08-2021,16:14,"['Cappucino', 'Pour-over normal']","[70, 100]",Rambo
+1031,27-08-2021,16:25,['Coffee beans 200'],[400],Rambo
+1032,27-08-2021,16:30,['Latte'],[70],Rambo
+1033,27-08-2021,7:54,"['Pour-over special', 'Cappucino', 'Coffee beans special 200', 'Pour-over special', 'Pour-over normal']","[200, 70, 600, 200, 100]",Rambo
+1034,27-08-2021,8:49,"['Espresso shot', 'Cappucino']","[30, 70]",Rambo
+1035,28-08-2021,10:05,['Flat white'],[70],Medse
+1036,28-08-2021,10:08,['Pour-over special'],[200],Medse
+1037,28-08-2021,10:52,['Pour-over special'],[200],Medse
+1038,28-08-2021,12:38,"['Pour-over normal', 'Flat white']","[100, 70]",Medse
+1039,28-08-2021,12:53,"['Americano', 'Cappucino', 'Pour-over special']","[50, 70, 200]",Medse
+1040,28-08-2021,12:56,['Latte'],[70],Medse
+1041,28-08-2021,13:20,['Cappucino'],[70],Medse
+1042,28-08-2021,14:24,"['Coffee beans 200', 'Pour-over special']","[400, 200]",Medse
+1043,28-08-2021,15:11,"['Flat white', 'Mocha']","[70, 75]",Medse
+1044,28-08-2021,16:25,['Coffee beans 200'],[400],Medse
+1045,28-08-2021,16:29,['Pour-over special'],[200],Medse
+1046,28-08-2021,16:34,['Macchiato'],[75],Medse
+1047,28-08-2021,16:51,['Latte'],[70],Medse
+1048,28-08-2021,7:11,['Pour-over normal'],[100],Medse
+1049,28-08-2021,7:16,"['Coffee beans special 200', 'Pour-over normal']","[600, 100]",Medse
+1050,28-08-2021,7:29,"['Flat white', 'Mocha', 'Latte']","[70, 75, 70]",Medse
+1051,28-08-2021,8:02,['Latte'],[70],Medse
+1052,28-08-2021,9:15,"['Espresso shot', 'Cappucino']","[30, 70]",Medse
+1053,29-08-2021,11:24,"['Macchiato', 'Latte', 'Americano', 'Americano']","[75, 70, 50, 50]",Medse
+1054,29-08-2021,11:31,['Americano'],[50],Medse
+1055,29-08-2021,11:57,"['Pour-over normal', 'Americano']","[100, 50]",Medse
+1056,29-08-2021,12:39,['Coffee beans 200'],[400],Medse
+1057,29-08-2021,12:48,"['Latte', 'Coffee beans special 200', 'Espresso shot']","[70, 600, 30]",Medse
+1058,29-08-2021,13:07,"['Coffee beans special 200', 'Flat white', 'Americano']","[600, 70, 50]",Medse
+1059,29-08-2021,13:11,"['Latte', 'Pour-over special']","[70, 200]",Medse
+1060,29-08-2021,13:47,['Pour-over normal'],[100],Medse
+1061,29-08-2021,14:32,['Pour-over normal'],[100],Medse
+1062,29-08-2021,15:30,"['Mocha', 'Americano']","[75, 50]",Medse
+1063,29-08-2021,15:40,['Coffee beans 200'],[400],Medse
+1064,29-08-2021,16:03,"['Cappucino', 'Flat white']","[70, 70]",Medse
+1065,29-08-2021,16:19,['Flat white'],[70],Medse
+1066,29-08-2021,7:02,['Pour-over normal'],[100],Medse
+1067,29-08-2021,7:41,['Coffee beans 200'],[400],Medse
+1068,29-08-2021,8:20,['Cappucino'],[70],Medse
+1069,29-08-2021,8:28,"['Pour-over special', 'Latte']","[200, 70]",Medse
+1070,29-08-2021,8:43,"['Pour-over normal', 'Pour-over special', 'Americano']","[100, 200, 50]",Medse
+1071,29-08-2021,9:02,['Latte'],[70],Medse
+1072,29-08-2021,9:14,"['Pour-over normal', 'Flat white']","[100, 70]",Medse
+1073,29-08-2021,9:41,"['Mocha', 'Flat white', 'Coffee beans special 200', 'Flat white']","[75, 70, 600, 70]",Medse
+1074,29-08-2021,9:59,['Pour-over normal'],[100],Medse
+1075,30-08-2021,10:00,"['Pour-over normal', 'Latte']","[100, 70]",Rambo
+1076,30-08-2021,13:39,['Pour-over normal'],[100],Rambo
+1077,30-08-2021,13:56,['Cappucino'],[70],Rambo
+1078,30-08-2021,14:39,"['Pour-over normal', 'Espresso shot']","[100, 30]",Rambo
+1079,30-08-2021,16:06,['Cappucino'],[70],Rambo
+1080,30-08-2021,16:41,"['Pour-over special', 'Pour-over normal', 'Coffee beans 200', 'Pour-over special', 'Pour-over special']","[200, 100, 400, 200, 200]",Rambo
+1081,30-08-2021,16:56,['Pour-over normal'],[100],Rambo
+1082,30-08-2021,8:02,['Pour-over special'],[200],Rambo
+1083,30-08-2021,9:20,['Espresso shot'],[30],Rambo
+1084,30-08-2021,9:32,['Coffee beans 200'],[400],Rambo
+1085,30-08-2021,9:43,['Coffee beans special 200'],[600],Rambo
+1086,31-08-2021,10:19,"['Pour-over normal', 'Espresso shot']","[100, 30]",Penguin
+1087,31-08-2021,11:58,"['Americano', 'Pour-over special']","[50, 200]",Penguin
+1088,31-08-2021,12:08,['Espresso shot'],[30],Penguin
+1089,31-08-2021,12:11,"['Cappucino', 'Latte']","[70, 70]",Penguin
+1090,31-08-2021,13:49,['Coffee beans special 200'],[600],Penguin
+1091,31-08-2021,13:59,['Latte'],[70],Penguin
+1092,31-08-2021,15:06,['Americano'],[50],Penguin
+1093,31-08-2021,15:11,['Latte'],[70],Penguin
+1094,31-08-2021,15:27,"['Pour-over special', 'Americano', 'Cappucino', 'Mocha', 'Pour-over special']","[200, 50, 70, 75, 200]",Penguin
+1095,31-08-2021,15:33,"['Americano', 'Cappucino']","[50, 70]",Penguin
+1096,31-08-2021,7:03,['Pour-over special'],[200],Penguin
+1097,31-08-2021,7:19,['Mocha'],[75],Penguin
+1098,31-08-2021,7:44,"['Americano', 'Pour-over normal', 'Mocha']","[50, 100, 75]",Penguin
+1099,31-08-2021,8:09,"['Espresso shot', 'Latte', 'Pour-over normal', 'Coffee beans special 200', 'Pour-over normal']","[30, 70, 100, 600, 100]",Penguin
+1100,31-08-2021,8:13,"['Americano', 'Pour-over special', 'Pour-over special', 'Coffee beans special 200', 'Espresso shot']","[50, 200, 200, 600, 30]",Penguin
+1101,31-08-2021,9:17,['Espresso shot'],[30],Penguin
+1102,31-08-2021,9:52,"['Mocha', 'Pour-over normal']","[75, 100]",Penguin
+1103,01-09-2021,10:02,"['Flat white', 'Latte']","[70, 70]",Rambo
+1104,01-09-2021,10:34,['Americano'],[50],Rambo
+1105,01-09-2021,11:08,"['Flat white', 'Cappucino']","[70, 70]",Rambo
+1106,01-09-2021,11:46,['Coffee beans special 200'],[600],Rambo
+1107,01-09-2021,12:28,['Flat white'],[70],Rambo
+1108,01-09-2021,12:39,['Coffee beans special 200'],[600],Rambo
+1109,01-09-2021,13:14,"['Mocha', 'Espresso shot']","[75, 30]",Rambo
+1110,01-09-2021,14:03,"['Latte', 'Latte']","[70, 70]",Rambo
+1111,01-09-2021,14:10,"['Espresso shot', 'Pour-over special', 'Latte']","[30, 200, 70]",Rambo
+1112,01-09-2021,15:01,['Pour-over normal'],[100],Rambo
+1113,01-09-2021,15:03,['Macchiato'],[75],Rambo
+1114,01-09-2021,15:08,"['Cappucino', 'Pour-over normal']","[70, 100]",Rambo
+1115,01-09-2021,15:14,['Pour-over special'],[200],Rambo
+1116,01-09-2021,16:06,['Latte'],[70],Rambo
+1117,01-09-2021,16:28,['Pour-over special'],[200],Rambo
+1118,01-09-2021,16:29,"['Pour-over special', 'Espresso shot']","[200, 30]",Rambo
+1119,01-09-2021,16:59,['Pour-over normal'],[100],Rambo
+1120,02-09-2021,10:47,['Pour-over normal'],[100],Penguin
+1121,02-09-2021,11:07,"['Pour-over special', 'Pour-over special', 'Pour-over normal']","[200, 200, 100]",Penguin
+1122,02-09-2021,11:09,"['Pour-over special', 'Espresso shot']","[200, 30]",Penguin
+1123,02-09-2021,11:17,['Mocha'],[75],Penguin
+1124,02-09-2021,11:18,"['Latte', 'Americano']","[70, 50]",Penguin
+1125,02-09-2021,11:22,['Pour-over special'],[200],Penguin
+1126,02-09-2021,11:24,"['Latte', 'Pour-over special']","[70, 200]",Penguin
+1127,02-09-2021,12:59,"['Cappucino', 'Americano', 'Pour-over special']","[70, 50, 200]",Penguin
+1128,02-09-2021,13:37,"['Coffee beans special 200', 'Cappucino', 'Americano', 'Flat white']","[600, 70, 50, 70]",Penguin
+1129,02-09-2021,14:06,"['Mocha', 'Cappucino']","[75, 70]",Penguin
+1130,02-09-2021,15:24,['Latte'],[70],Penguin
+1131,02-09-2021,15:33,"['Macchiato', 'Latte']","[75, 70]",Penguin
+1132,02-09-2021,16:58,"['Coffee beans 200', 'Pour-over normal']","[400, 100]",Penguin
+1133,02-09-2021,7:20,['Latte'],[70],Penguin
+1134,02-09-2021,8:10,"['Pour-over special', 'Cappucino']","[200, 70]",Penguin
+1135,02-09-2021,8:49,"['Latte', 'Cappucino']","[70, 70]",Penguin
+1136,03-09-2021,10:01,['Pour-over normal'],[100],Rambo
+1137,03-09-2021,10:40,['Latte'],[70],Rambo
+1138,03-09-2021,12:00,"['Americano', 'Latte']","[50, 70]",Rambo
+1139,03-09-2021,12:08,['Pour-over normal'],[100],Rambo
+1140,03-09-2021,14:20,['Pour-over normal'],[100],Rambo
+1141,03-09-2021,15:07,['Pour-over special'],[200],Rambo
+1142,03-09-2021,16:15,"['Cappucino', 'Espresso shot']","[70, 30]",Rambo
+1143,03-09-2021,16:25,['Americano'],[50],Rambo
+1144,03-09-2021,16:48,['Pour-over normal'],[100],Rambo
+1145,03-09-2021,7:34,"['Mocha', 'Cappucino']","[75, 70]",Rambo
+1146,03-09-2021,8:14,"['Pour-over special', 'Pour-over special']","[200, 200]",Rambo
+1147,03-09-2021,8:43,['Americano'],[50],Rambo
+1148,03-09-2021,9:16,"['Americano', 'Mocha']","[50, 75]",Rambo
+1149,03-09-2021,9:27,"['Macchiato', 'Macchiato']","[75, 75]",Rambo
+1150,03-09-2021,9:44,['Flat white'],[70],Rambo
+1151,04-09-2021,10:11,['Americano'],[50],Medse
+1152,04-09-2021,10:15,['Pour-over normal'],[100],Medse
+1153,04-09-2021,10:30,"['Flat white', 'Coffee beans 200', 'Pour-over special', 'Americano', 'Espresso shot']","[70, 400, 200, 50, 30]",Medse
+1154,04-09-2021,11:08,"['Latte', 'Mocha']","[70, 75]",Medse
+1155,04-09-2021,11:13,"['Cappucino', 'Pour-over special']","[70, 200]",Medse
+1156,04-09-2021,11:19,['Pour-over normal'],[100],Medse
+1157,04-09-2021,11:38,"['Mocha', 'Latte']","[75, 70]",Medse
+1158,04-09-2021,11:59,"['Coffee beans 200', 'Pour-over special', 'Coffee beans 200']","[400, 200, 400]",Medse
+1159,04-09-2021,12:35,"['Pour-over normal', 'Pour-over normal', 'Pour-over special', 'Americano', 'Coffee beans special 200']","[100, 100, 200, 50, 600]",Medse
+1160,04-09-2021,13:18,"['Pour-over normal', 'Americano', 'Macchiato', 'Cappucino', 'Macchiato']","[100, 50, 75, 70, 75]",Medse
+1161,04-09-2021,13:36,['Pour-over normal'],[100],Medse
+1162,04-09-2021,14:07,"['Pour-over normal', 'Pour-over special', 'Coffee beans special 200', 'Americano', 'Americano']","[100, 200, 600, 50, 50]",Medse
+1163,04-09-2021,14:12,"['Americano', 'Americano']","[50, 50]",Medse
+1164,04-09-2021,14:25,"['Latte', 'Flat white']","[70, 70]",Medse
+1165,04-09-2021,16:07,"['Latte', 'Coffee beans special 200']","[70, 600]",Medse
+1166,04-09-2021,7:11,"['Pour-over special', 'Pour-over normal']","[200, 100]",Medse
+1167,04-09-2021,8:04,"['Pour-over normal', 'Mocha', 'Cappucino', 'Americano', 'Pour-over special']","[100, 75, 70, 50, 200]",Medse
+1168,04-09-2021,8:40,['Coffee beans 200'],[400],Medse
+1169,04-09-2021,8:57,"['Pour-over normal', 'Latte']","[100, 70]",Medse
+1170,04-09-2021,9:35,"['Pour-over special', 'Pour-over normal', 'Pour-over normal', 'Coffee beans special 200']","[200, 100, 100, 600]",Medse
+1171,05-09-2021,10:33,['Coffee beans 200'],[400],Medse
+1172,05-09-2021,10:36,"['Pour-over normal', 'Espresso shot']","[100, 30]",Medse
+1173,05-09-2021,10:38,['Macchiato'],[75],Medse
+1174,05-09-2021,10:41,['Macchiato'],[75],Medse
+1175,05-09-2021,10:42,"['Cappucino', 'Americano']","[70, 50]",Medse
+1176,05-09-2021,10:45,"['Cappucino', 'Pour-over special']","[70, 200]",Medse
+1177,05-09-2021,10:57,['Pour-over special'],[200],Medse
+1178,05-09-2021,11:17,"['Cappucino', 'Coffee beans special 200']","[70, 600]",Medse
+1179,05-09-2021,11:55,['Mocha'],[75],Medse
+1180,05-09-2021,12:14,['Pour-over special'],[200],Medse
+1181,05-09-2021,13:07,"['Mocha', 'Mocha']","[75, 75]",Medse
+1182,05-09-2021,13:09,['Pour-over special'],[200],Medse
+1183,05-09-2021,13:25,['Flat white'],[70],Medse
+1184,05-09-2021,13:51,"['Pour-over special', 'Mocha']","[200, 75]",Medse
+1185,05-09-2021,14:05,"['Pour-over special', 'Pour-over special']","[200, 200]",Medse
+1186,05-09-2021,14:46,"['Mocha', 'Pour-over normal']","[75, 100]",Medse
+1187,05-09-2021,15:43,"['Pour-over normal', 'Cappucino']","[100, 70]",Medse
+1188,05-09-2021,15:55,['Macchiato'],[75],Medse
+1189,05-09-2021,16:07,"['Cappucino', 'Pour-over normal']","[70, 100]",Medse
+1190,05-09-2021,16:22,['Cappucino'],[70],Medse
+1191,05-09-2021,7:00,['Coffee beans special 200'],[600],Medse
+1192,05-09-2021,7:03,['Espresso shot'],[30],Medse
+1193,05-09-2021,7:26,['Pour-over normal'],[100],Medse
+1194,05-09-2021,8:22,"['Americano', 'Flat white', 'Flat white', 'Espresso shot']","[50, 70, 70, 30]",Medse
+1195,05-09-2021,9:03,"['Mocha', 'Flat white', 'Latte', 'Pour-over normal']","[75, 70, 70, 100]",Medse
+1196,05-09-2021,9:08,['Coffee beans special 200'],[600],Medse
+1197,05-09-2021,9:13,"['Pour-over normal', 'Mocha', 'Flat white']","[100, 75, 70]",Medse
+1198,05-09-2021,9:33,['Flat white'],[70],Medse
+1199,05-09-2021,9:38,['Pour-over special'],[200],Medse
+1200,05-09-2021,9:45,"['Pour-over normal', 'Cappucino']","[100, 70]",Medse
+1201,06-09-2021,10:32,['Pour-over normal'],[100],Rambo
+1202,06-09-2021,11:03,"['Mocha', 'Pour-over normal', 'Latte', 'Americano']","[75, 100, 70, 50]",Rambo
+1203,06-09-2021,11:39,['Flat white'],[70],Rambo
+1204,06-09-2021,11:43,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+1205,06-09-2021,11:45,['Pour-over normal'],[100],Rambo
+1206,06-09-2021,12:06,"['Latte', 'Pour-over special']","[70, 200]",Rambo
+1207,06-09-2021,12:07,['Pour-over special'],[200],Rambo
+1208,06-09-2021,12:10,['Coffee beans 200'],[400],Rambo
+1209,06-09-2021,12:12,"['Americano', 'Pour-over special']","[50, 200]",Rambo
+1210,06-09-2021,13:20,['Pour-over normal'],[100],Rambo
+1211,06-09-2021,13:22,['Mocha'],[75],Rambo
+1212,06-09-2021,13:23,"['Coffee beans special 200', 'Macchiato', 'Espresso shot']","[600, 75, 30]",Rambo
+1213,06-09-2021,13:31,['Mocha'],[75],Rambo
+1214,06-09-2021,13:31,['Pour-over normal'],[100],Rambo
+1215,06-09-2021,13:41,"['Macchiato', 'Pour-over normal', 'Coffee beans special 200']","[75, 100, 600]",Rambo
+1216,06-09-2021,14:52,['Pour-over normal'],[100],Rambo
+1217,06-09-2021,15:39,"['Pour-over special', 'Macchiato']","[200, 75]",Rambo
+1218,06-09-2021,15:55,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+1219,06-09-2021,16:00,['Pour-over normal'],[100],Rambo
+1220,06-09-2021,16:01,['Americano'],[50],Rambo
+1221,06-09-2021,16:26,['Latte'],[70],Rambo
+1222,06-09-2021,7:34,['Cappucino'],[70],Rambo
+1223,06-09-2021,7:58,"['Pour-over special', 'Cappucino', 'Americano']","[200, 70, 50]",Rambo
+1224,06-09-2021,8:16,"['Mocha', 'Latte']","[75, 70]",Rambo
+1225,06-09-2021,8:22,"['Americano', 'Pour-over special', 'Macchiato', 'Americano', 'Macchiato']","[50, 200, 75, 50, 75]",Rambo
+1226,06-09-2021,9:15,['Mocha'],[75],Rambo
+1227,06-09-2021,9:19,"['Americano', 'Mocha', 'Flat white', 'Pour-over normal']","[50, 75, 70, 100]",Rambo
+1228,06-09-2021,9:23,['Latte'],[70],Rambo
+1229,06-09-2021,9:37,"['Pour-over special', 'Pour-over special', 'Flat white']","[200, 200, 70]",Rambo
+1230,06-09-2021,9:45,['Pour-over normal'],[100],Rambo
+1231,07-09-2021,10:06,['Coffee beans 200'],[400],Penguin
+1232,07-09-2021,10:08,['Pour-over special'],[200],Penguin
+1233,07-09-2021,11:00,"['Mocha', 'Americano']","[75, 50]",Penguin
+1234,07-09-2021,11:20,"['Cappucino', 'Flat white', 'Pour-over normal']","[70, 70, 100]",Penguin
+1235,07-09-2021,11:43,['Pour-over normal'],[100],Penguin
+1236,07-09-2021,11:51,"['Latte', 'Pour-over special']","[70, 200]",Penguin
+1237,07-09-2021,12:08,['Cappucino'],[70],Penguin
+1238,07-09-2021,12:19,['Cappucino'],[70],Penguin
+1239,07-09-2021,12:42,['Mocha'],[75],Penguin
+1240,07-09-2021,13:36,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+1241,07-09-2021,13:47,"['Americano', 'Mocha']","[50, 75]",Penguin
+1242,07-09-2021,13:57,['Macchiato'],[75],Penguin
+1243,07-09-2021,15:01,['Latte'],[70],Penguin
+1244,07-09-2021,15:33,['Cappucino'],[70],Penguin
+1245,07-09-2021,15:40,"['Mocha', 'Pour-over special']","[75, 200]",Penguin
+1246,07-09-2021,16:01,"['Pour-over normal', 'Macchiato', 'Americano', 'Pour-over normal']","[100, 75, 50, 100]",Penguin
+1247,07-09-2021,16:31,['Cappucino'],[70],Penguin
+1248,07-09-2021,16:34,"['Pour-over special', 'Coffee beans special 200']","[200, 600]",Penguin
+1249,07-09-2021,16:48,"['Americano', 'Latte', 'Flat white', 'Macchiato', 'Pour-over normal']","[50, 70, 70, 75, 100]",Penguin
+1250,07-09-2021,16:53,['Mocha'],[75],Penguin
+1251,07-09-2021,7:26,['Americano'],[50],Penguin
+1252,07-09-2021,7:29,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+1253,07-09-2021,8:09,"['Pour-over special', 'Coffee beans 200']","[200, 400]",Penguin
+1254,07-09-2021,8:46,['Pour-over special'],[200],Penguin
+1255,07-09-2021,9:06,['Cappucino'],[70],Penguin
+1256,07-09-2021,9:17,['Latte'],[70],Penguin
+1257,07-09-2021,9:26,"['Pour-over special', 'Pour-over special', 'Cappucino', 'Espresso shot']","[200, 200, 70, 30]",Penguin
+1258,07-09-2021,9:49,['Americano'],[50],Penguin
+1259,08-09-2021,13:00,['Mocha'],[75],Rambo
+1260,08-09-2021,15:02,['Pour-over normal'],[100],Rambo
+1261,08-09-2021,15:03,"['Cappucino', 'Pour-over normal', 'Flat white']","[70, 100, 70]",Rambo
+1262,08-09-2021,15:23,['Coffee beans special 200'],[600],Rambo
+1263,08-09-2021,16:18,"['Pour-over special', 'Flat white']","[200, 70]",Rambo
+1264,08-09-2021,8:18,"['Mocha', 'Flat white']","[75, 70]",Rambo
+1265,08-09-2021,8:47,"['Americano', 'Latte']","[50, 70]",Rambo
+1266,08-09-2021,8:50,"['Coffee beans 200', 'Americano']","[400, 50]",Rambo
+1267,09-09-2021,11:01,"['Pour-over normal', 'Coffee beans special 200', 'Pour-over special', 'Pour-over special']","[100, 600, 200, 200]",Penguin
+1268,09-09-2021,11:35,['Pour-over normal'],[100],Penguin
+1269,09-09-2021,15:10,['Coffee beans 200'],[400],Penguin
+1270,09-09-2021,16:09,['Macchiato'],[75],Penguin
+1271,09-09-2021,16:10,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+1272,09-09-2021,16:23,"['Pour-over normal', 'Coffee beans 200', 'Americano', 'Americano']","[100, 400, 50, 50]",Penguin
+1273,09-09-2021,16:55,['Mocha'],[75],Penguin
+1274,09-09-2021,7:17,['Latte'],[70],Penguin
+1275,09-09-2021,8:06,['Macchiato'],[75],Penguin
+1276,09-09-2021,9:18,['Pour-over normal'],[100],Penguin
+1277,09-09-2021,9:35,"['Americano', 'Coffee beans 200']","[50, 400]",Penguin
+1278,10-09-2021,11:11,['Pour-over special'],[200],Rambo
+1279,10-09-2021,12:14,['Flat white'],[70],Rambo
+1280,10-09-2021,12:24,['Pour-over normal'],[100],Rambo
+1281,10-09-2021,12:43,"['Cappucino', 'Flat white']","[70, 70]",Rambo
+1282,10-09-2021,13:06,"['Pour-over special', 'Cappucino', 'Coffee beans special 200', 'Americano']","[200, 70, 600, 50]",Rambo
+1283,10-09-2021,13:45,"['Latte', 'Latte']","[70, 70]",Rambo
+1284,10-09-2021,14:28,['Flat white'],[70],Rambo
+1285,10-09-2021,15:00,['Cappucino'],[70],Rambo
+1286,10-09-2021,15:36,"['Flat white', 'Pour-over special']","[70, 200]",Rambo
+1287,10-09-2021,15:52,['Pour-over normal'],[100],Rambo
+1288,10-09-2021,16:06,['Pour-over special'],[200],Rambo
+1289,10-09-2021,16:16,"['Cappucino', 'Latte']","[70, 70]",Rambo
+1290,10-09-2021,7:42,['Pour-over special'],[200],Rambo
+1291,10-09-2021,7:43,['Americano'],[50],Rambo
+1292,10-09-2021,8:47,"['Coffee beans 200', 'Pour-over normal', 'Americano', 'Americano']","[400, 100, 50, 50]",Rambo
+1293,11-09-2021,10:20,"['Macchiato', 'Flat white']","[75, 70]",Medse
+1294,11-09-2021,10:23,"['Flat white', 'Pour-over special', 'Pour-over normal', 'Latte', 'Americano']","[70, 200, 100, 70, 50]",Medse
+1295,11-09-2021,10:49,['Americano'],[50],Medse
+1296,11-09-2021,11:03,['Flat white'],[70],Medse
+1297,11-09-2021,11:06,"['Flat white', 'Pour-over normal']","[70, 100]",Medse
+1298,11-09-2021,11:21,['Macchiato'],[75],Medse
+1299,11-09-2021,12:32,['Americano'],[50],Medse
+1300,11-09-2021,12:43,['Americano'],[50],Medse
+1301,11-09-2021,14:28,"['Mocha', 'Latte', 'Pour-over normal', 'Pour-over normal', 'Pour-over normal']","[75, 70, 100, 100, 100]",Medse
+1302,11-09-2021,14:36,['Mocha'],[75],Medse
+1303,11-09-2021,15:09,['Pour-over special'],[200],Medse
+1304,11-09-2021,15:10,['Flat white'],[70],Medse
+1305,11-09-2021,15:14,['Latte'],[70],Medse
+1306,11-09-2021,15:43,['Pour-over normal'],[100],Medse
+1307,11-09-2021,15:57,"['Coffee beans special 200', 'Mocha', 'Macchiato', 'Coffee beans 200']","[600, 75, 75, 400]",Medse
+1308,11-09-2021,15:58,['Coffee beans special 200'],[600],Medse
+1309,11-09-2021,9:17,['Flat white'],[70],Medse
+1310,11-09-2021,9:39,"['Pour-over normal', 'Americano', 'Americano']","[100, 50, 50]",Medse
+1311,12-09-2021,11:00,"['Latte', 'Pour-over special', 'Flat white', 'Cappucino']","[70, 200, 70, 70]",Medse
+1312,12-09-2021,11:23,['Coffee beans 200'],[400],Medse
+1313,12-09-2021,11:29,"['Latte', 'Cappucino', 'Flat white', 'Pour-over normal', 'Pour-over special']","[70, 70, 70, 100, 200]",Medse
+1314,12-09-2021,11:45,"['Pour-over normal', 'Latte', 'Pour-over normal']","[100, 70, 100]",Medse
+1315,12-09-2021,12:06,['Espresso shot'],[30],Medse
+1316,12-09-2021,12:16,['Cappucino'],[70],Medse
+1317,12-09-2021,12:19,"['Pour-over special', 'Mocha', 'Cappucino', 'Pour-over normal']","[200, 75, 70, 100]",Medse
+1318,12-09-2021,14:15,"['Macchiato', 'Latte']","[75, 70]",Medse
+1319,12-09-2021,14:22,"['Coffee beans 200', 'Pour-over normal', 'Americano']","[400, 100, 50]",Medse
+1320,12-09-2021,14:46,['Pour-over special'],[200],Medse
+1321,12-09-2021,14:59,['Macchiato'],[75],Medse
+1322,12-09-2021,15:28,['Americano'],[50],Medse
+1323,12-09-2021,15:52,['Flat white'],[70],Medse
+1324,12-09-2021,15:53,"['Mocha', 'Macchiato', 'Pour-over normal', 'Latte']","[75, 75, 100, 70]",Medse
+1325,12-09-2021,15:59,"['Pour-over special', 'Pour-over normal']","[200, 100]",Medse
+1326,12-09-2021,16:01,['Latte'],[70],Medse
+1327,12-09-2021,16:13,['Coffee beans 200'],[400],Medse
+1328,12-09-2021,16:26,['Espresso shot'],[30],Medse
+1329,12-09-2021,16:54,"['Coffee beans special 200', 'Latte']","[600, 70]",Medse
+1330,12-09-2021,7:24,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Medse
+1331,12-09-2021,7:33,"['Macchiato', 'Americano']","[75, 50]",Medse
+1332,12-09-2021,7:39,"['Pour-over special', 'Americano']","[200, 50]",Medse
+1333,12-09-2021,9:08,['Pour-over normal'],[100],Medse
+1334,12-09-2021,9:14,"['Pour-over special', 'Latte', 'Cappucino', 'Pour-over special', 'Espresso shot']","[200, 70, 70, 200, 30]",Medse
+1335,12-09-2021,9:32,"['Coffee beans 200', 'Latte']","[400, 70]",Medse
+1336,12-09-2021,9:32,"['Pour-over normal', 'Macchiato']","[100, 75]",Medse
+1337,12-09-2021,9:39,['Flat white'],[70],Medse
+1338,12-09-2021,9:52,"['Macchiato', 'Americano']","[75, 50]",Medse
+1339,13-09-2021,10:59,"['Pour-over special', 'Espresso shot']","[200, 30]",Rambo
+1340,13-09-2021,10:59,"['Coffee beans special 200', 'Flat white']","[600, 70]",Rambo
+1341,13-09-2021,11:11,"['Cappucino', 'Flat white', 'Pour-over special', 'Cappucino']","[70, 70, 200, 70]",Rambo
+1342,13-09-2021,13:27,"['Flat white', 'Pour-over special']","[70, 200]",Rambo
+1343,13-09-2021,13:39,"['Coffee beans 200', 'Pour-over normal']","[400, 100]",Rambo
+1344,13-09-2021,13:41,['Pour-over special'],[200],Rambo
+1345,13-09-2021,14:48,"['Latte', 'Pour-over normal']","[70, 100]",Rambo
+1346,13-09-2021,16:13,"['Pour-over normal', 'Latte']","[100, 70]",Rambo
+1347,13-09-2021,7:41,"['Cappucino', 'Pour-over special', 'Coffee beans 200']","[70, 200, 400]",Rambo
+1348,13-09-2021,8:22,"['Pour-over normal', 'Flat white', 'Flat white']","[100, 70, 70]",Rambo
+1349,13-09-2021,8:32,['Pour-over special'],[200],Rambo
+1350,13-09-2021,9:36,"['Coffee beans special 200', 'Macchiato']","[600, 75]",Rambo
+1351,13-09-2021,9:59,"['Pour-over special', 'Latte', 'Pour-over special', 'Pour-over special', 'Cappucino']","[200, 70, 200, 200, 70]",Rambo
+1352,14-09-2021,10:02,"['Pour-over normal', 'Pour-over normal']","[100, 100]",Penguin
+1353,14-09-2021,10:31,['Cappucino'],[70],Penguin
+1354,14-09-2021,11:20,['Pour-over special'],[200],Penguin
+1355,14-09-2021,11:30,['Latte'],[70],Penguin
+1356,14-09-2021,11:41,['Flat white'],[70],Penguin
+1357,14-09-2021,11:57,"['Coffee beans 200', 'Latte', 'Mocha', 'Cappucino', 'Latte']","[400, 70, 75, 70, 70]",Penguin
+1358,14-09-2021,12:14,['Macchiato'],[75],Penguin
+1359,14-09-2021,13:58,"['Coffee beans 200', 'Pour-over special']","[400, 200]",Penguin
+1360,14-09-2021,14:01,['Pour-over normal'],[100],Penguin
+1361,14-09-2021,14:28,"['Latte', 'Espresso shot', 'Pour-over normal', 'Americano']","[70, 30, 100, 50]",Penguin
+1362,14-09-2021,14:53,['Flat white'],[70],Penguin
+1363,14-09-2021,15:22,"['Pour-over special', 'Macchiato']","[200, 75]",Penguin
+1364,14-09-2021,15:56,['Mocha'],[75],Penguin
+1365,14-09-2021,16:07,['Latte'],[70],Penguin
+1366,14-09-2021,16:09,['Espresso shot'],[30],Penguin
+1367,14-09-2021,16:28,['Americano'],[50],Penguin
+1368,14-09-2021,9:32,['Flat white'],[70],Penguin
+1369,15-09-2021,13:57,"['Macchiato', 'Flat white']","[75, 70]",Rambo
+1370,15-09-2021,14:15,['Pour-over special'],[200],Rambo
+1371,15-09-2021,14:36,"['Coffee beans 200', 'Cappucino']","[400, 70]",Rambo
+1372,15-09-2021,15:06,['Pour-over normal'],[100],Rambo
+1373,15-09-2021,16:14,['Latte'],[70],Rambo
+1374,15-09-2021,7:22,['Pour-over normal'],[100],Rambo
+1375,15-09-2021,9:41,['Coffee beans 200'],[400],Rambo
+1376,16-09-2021,10:04,"['Latte', 'Coffee beans special 200', 'Coffee beans special 200', 'Cappucino', 'Coffee beans 200']","[70, 600, 600, 70, 400]",Penguin
+1377,16-09-2021,10:48,"['Pour-over special', 'Flat white', 'Americano', 'Latte', 'Pour-over normal']","[200, 70, 50, 70, 100]",Penguin
+1378,16-09-2021,11:22,['Coffee beans special 200'],[600],Penguin
+1379,16-09-2021,11:22,"['Pour-over special', 'Pour-over normal']","[200, 100]",Penguin
+1380,16-09-2021,11:28,['Latte'],[70],Penguin
+1381,16-09-2021,11:44,"['Espresso shot', 'Macchiato', 'Coffee beans 200']","[30, 75, 400]",Penguin
+1382,16-09-2021,11:50,"['Espresso shot', 'Coffee beans special 200']","[30, 600]",Penguin
+1383,16-09-2021,12:00,"['Flat white', 'Cappucino']","[70, 70]",Penguin
+1384,16-09-2021,12:20,['Pour-over normal'],[100],Penguin
+1385,16-09-2021,12:28,"['Pour-over normal', 'Coffee beans special 200']","[100, 600]",Penguin
+1386,16-09-2021,13:01,['Coffee beans special 200'],[600],Penguin
+1387,16-09-2021,13:27,['Americano'],[50],Penguin
+1388,16-09-2021,13:33,"['Flat white', 'Americano']","[70, 50]",Penguin
+1389,16-09-2021,13:49,['Coffee beans 200'],[400],Penguin
+1390,16-09-2021,14:15,['Latte'],[70],Penguin
+1391,16-09-2021,15:05,['Pour-over special'],[200],Penguin
+1392,16-09-2021,16:09,['Pour-over special'],[200],Penguin
+1393,16-09-2021,16:23,['Mocha'],[75],Penguin
+1394,16-09-2021,7:12,['Latte'],[70],Penguin
+1395,16-09-2021,7:17,['Coffee beans 200'],[400],Penguin
+1396,16-09-2021,7:37,"['Pour-over normal', 'Pour-over special']","[100, 200]",Penguin
+1397,16-09-2021,8:25,"['Pour-over normal', 'Latte', 'Pour-over special']","[100, 70, 200]",Penguin
+1398,16-09-2021,8:52,['Pour-over special'],[200],Penguin
+1399,16-09-2021,8:53,['Coffee beans special 200'],[600],Penguin
+1400,16-09-2021,9:37,['Pour-over normal'],[100],Penguin
+1401,16-09-2021,9:41,"['Pour-over normal', 'Pour-over normal', 'Pour-over special', 'Pour-over normal', 'Pour-over special']","[100, 100, 200, 100, 200]",Penguin
+1402,17-09-2021,11:18,['Pour-over special'],[200],Rambo
+1403,17-09-2021,13:17,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+1404,17-09-2021,13:28,"['Americano', 'Americano']","[50, 50]",Rambo
+1405,17-09-2021,14:02,"['Flat white', 'Macchiato']","[70, 75]",Rambo
+1406,17-09-2021,16:18,['Americano'],[50],Rambo
+1407,17-09-2021,9:12,['Americano'],[50],Rambo
+1408,17-09-2021,9:44,['Pour-over normal'],[100],Rambo
+1409,18-09-2021,10:08,['Coffee beans 200'],[400],Medse
+1410,18-09-2021,11:01,"['Pour-over normal', 'Pour-over special']","[100, 200]",Medse
+1411,18-09-2021,12:02,['Americano'],[50],Medse
+1412,18-09-2021,13:25,"['Espresso shot', 'Pour-over normal', 'Pour-over special']","[30, 100, 200]",Medse
+1413,18-09-2021,13:30,['Pour-over special'],[200],Medse
+1414,18-09-2021,13:48,"['Americano', 'Pour-over special', 'Latte']","[50, 200, 70]",Medse
+1415,18-09-2021,13:53,"['Coffee beans 200', 'Cappucino']","[400, 70]",Medse
+1416,18-09-2021,15:57,['Macchiato'],[75],Medse
+1417,18-09-2021,16:18,"['Cappucino', 'Cappucino']","[70, 70]",Medse
+1418,18-09-2021,16:18,['Pour-over special'],[200],Medse
+1419,18-09-2021,8:41,"['Pour-over special', 'Americano']","[200, 50]",Medse
+1420,18-09-2021,9:07,"['Pour-over normal', 'Coffee beans 200']","[100, 400]",Medse
+1421,18-09-2021,9:32,"['Flat white', 'Flat white']","[70, 70]",Medse
+1422,19-09-2021,12:22,"['Mocha', 'Cappucino', 'Cappucino', 'Pour-over special', 'Americano']","[75, 70, 70, 200, 50]",Medse
+1423,19-09-2021,12:28,['Pour-over special'],[200],Medse
+1424,19-09-2021,13:20,"['Mocha', 'Latte']","[75, 70]",Medse
+1425,19-09-2021,14:18,['Pour-over special'],[200],Medse
+1426,19-09-2021,14:38,"['Latte', 'Latte']","[70, 70]",Medse
+1427,19-09-2021,15:18,"['Macchiato', 'Latte']","[75, 70]",Medse
+1428,19-09-2021,16:40,"['Americano', 'Pour-over normal', 'Latte', 'Pour-over normal', 'Cappucino']","[50, 100, 70, 100, 70]",Medse
+1429,19-09-2021,8:30,"['Cappucino', 'Pour-over normal']","[70, 100]",Medse
+1430,19-09-2021,9:44,['Pour-over normal'],[100],Medse
+1431,19-09-2021,9:52,['Coffee beans special 200'],[600],Medse
+1432,20-09-2021,10:15,['Mocha'],[75],Rambo
+1433,20-09-2021,10:23,"['Flat white', 'Pour-over normal']","[70, 100]",Rambo
+1434,20-09-2021,10:27,['Pour-over normal'],[100],Rambo
+1435,20-09-2021,10:40,"['Pour-over special', 'Cappucino']","[200, 70]",Rambo
+1436,20-09-2021,10:51,['Coffee beans special 200'],[600],Rambo
+1437,20-09-2021,10:54,['Pour-over special'],[200],Rambo
+1438,20-09-2021,11:18,['Americano'],[50],Rambo
+1439,20-09-2021,11:59,['Americano'],[50],Rambo
+1440,20-09-2021,12:01,['Coffee beans 200'],[400],Rambo
+1441,20-09-2021,13:19,"['Americano', 'Pour-over special']","[50, 200]",Rambo
+1442,20-09-2021,13:35,"['Pour-over normal', 'Americano', 'Pour-over special', 'Pour-over special']","[100, 50, 200, 200]",Rambo
+1443,20-09-2021,13:55,"['Coffee beans 200', 'Pour-over normal']","[400, 100]",Rambo
+1444,20-09-2021,15:37,"['Pour-over normal', 'Latte', 'Macchiato']","[100, 70, 75]",Rambo
+1445,20-09-2021,16:27,"['Coffee beans 200', 'Macchiato']","[400, 75]",Rambo
+1446,20-09-2021,7:01,['Pour-over normal'],[100],Rambo
+1447,20-09-2021,7:10,['Cappucino'],[70],Rambo
+1448,20-09-2021,7:29,"['Mocha', 'Coffee beans 200']","[75, 400]",Rambo
+1449,20-09-2021,8:49,['Latte'],[70],Rambo
+1450,20-09-2021,9:01,['Pour-over normal'],[100],Rambo
+1451,20-09-2021,9:13,"['Pour-over normal', 'Latte', 'Latte']","[100, 70, 70]",Rambo
+1452,20-09-2021,9:15,"['Espresso shot', 'Latte']","[30, 70]",Rambo
+1453,20-09-2021,9:19,"['Coffee beans special 200', 'Mocha', 'Espresso shot']","[600, 75, 30]",Rambo
+1454,21-09-2021,11:10,['Pour-over normal'],[100],Penguin
+1455,21-09-2021,11:13,['Cappucino'],[70],Penguin
+1456,21-09-2021,11:17,"['Pour-over normal', 'Flat white']","[100, 70]",Penguin
+1457,21-09-2021,11:29,['Flat white'],[70],Penguin
+1458,21-09-2021,12:23,"['Cappucino', 'Espresso shot', 'Flat white']","[70, 30, 70]",Penguin
+1459,21-09-2021,12:28,"['Americano', 'Mocha']","[50, 75]",Penguin
+1460,21-09-2021,12:44,"['Pour-over special', 'Coffee beans special 200', 'Espresso shot']","[200, 600, 30]",Penguin
+1461,21-09-2021,13:19,['Coffee beans 200'],[400],Penguin
+1462,21-09-2021,13:52,"['Mocha', 'Pour-over normal', 'Americano', 'Flat white', 'Flat white']","[75, 100, 50, 70, 70]",Penguin
+1463,21-09-2021,14:23,"['Flat white', 'Mocha', 'Pour-over special']","[70, 75, 200]",Penguin
+1464,21-09-2021,14:30,['Pour-over special'],[200],Penguin
+1465,21-09-2021,14:32,['Latte'],[70],Penguin
+1466,21-09-2021,15:23,"['Mocha', 'Pour-over normal']","[75, 100]",Penguin
+1467,21-09-2021,15:54,['Macchiato'],[75],Penguin
+1468,21-09-2021,16:22,"['Pour-over normal', 'Coffee beans 200']","[100, 400]",Penguin
+1469,21-09-2021,16:37,['Mocha'],[75],Penguin
+1470,21-09-2021,16:42,"['Latte', 'Macchiato', 'Pour-over normal']","[70, 75, 100]",Penguin
+1471,21-09-2021,16:56,"['Coffee beans 200', 'Pour-over normal', 'Espresso shot']","[400, 100, 30]",Penguin
+1472,21-09-2021,7:32,"['Pour-over normal', 'Coffee beans 200']","[100, 400]",Penguin
+1473,21-09-2021,7:51,['Pour-over special'],[200],Penguin
+1474,21-09-2021,7:54,['Pour-over normal'],[100],Penguin
+1475,21-09-2021,8:50,['Latte'],[70],Penguin
+1476,21-09-2021,9:37,['Americano'],[50],Penguin
+1477,21-09-2021,9:43,"['Pour-over special', 'Pour-over normal']","[200, 100]",Penguin
+1478,22-09-2021,11:03,['Pour-over normal'],[100],Rambo
+1479,22-09-2021,11:07,['Macchiato'],[75],Rambo
+1480,22-09-2021,11:12,"['Espresso shot', 'Pour-over special']","[30, 200]",Rambo
+1481,22-09-2021,12:09,"['Pour-over special', 'Coffee beans 200']","[200, 400]",Rambo
+1482,22-09-2021,12:10,"['Latte', 'Pour-over normal', 'Flat white']","[70, 100, 70]",Rambo
+1483,22-09-2021,12:20,"['Pour-over normal', 'Mocha']","[100, 75]",Rambo
+1484,22-09-2021,12:30,"['Coffee beans 200', 'Macchiato']","[400, 75]",Rambo
+1485,22-09-2021,12:38,['Cappucino'],[70],Rambo
+1486,22-09-2021,12:44,"['Mocha', 'Americano', 'Latte']","[75, 50, 70]",Rambo
+1487,22-09-2021,15:39,['Americano'],[50],Rambo
+1488,22-09-2021,15:46,"['Espresso shot', 'Cappucino', 'Cappucino']","[30, 70, 70]",Rambo
+1489,22-09-2021,15:53,['Americano'],[50],Rambo
+1490,22-09-2021,16:02,['Pour-over normal'],[100],Rambo
+1491,22-09-2021,16:10,"['Americano', 'Macchiato', 'Pour-over normal', 'Pour-over special']","[50, 75, 100, 200]",Rambo
+1492,22-09-2021,16:32,"['Latte', 'Americano']","[70, 50]",Rambo
+1493,22-09-2021,7:15,['Latte'],[70],Rambo
+1494,22-09-2021,7:49,"['Americano', 'Pour-over normal']","[50, 100]",Rambo
+1495,22-09-2021,8:30,"['Flat white', 'Americano']","[70, 50]",Rambo
+1496,22-09-2021,9:05,"['Pour-over special', 'Pour-over normal']","[200, 100]",Rambo
+1497,22-09-2021,9:17,['Cappucino'],[70],Rambo
+1498,23-09-2021,11:49,['Pour-over special'],[200],Penguin
+1499,23-09-2021,12:38,"['Coffee beans 200', 'Coffee beans special 200']","[400, 600]",Penguin
+1500,23-09-2021,12:55,"['Mocha', 'Coffee beans special 200']","[75, 600]",Penguin
+1501,23-09-2021,14:17,['Americano'],[50],Penguin
+1502,23-09-2021,16:05,"['Coffee beans 200', 'Latte']","[400, 70]",Penguin
+1503,23-09-2021,7:20,"['Coffee beans special 200', 'Pour-over normal']","[600, 100]",Penguin
+1504,23-09-2021,8:17,"['Flat white', 'Pour-over normal', 'Coffee beans special 200', 'Pour-over normal']","[70, 100, 600, 100]",Penguin
+1505,23-09-2021,8:23,['Pour-over special'],[200],Penguin
+1506,23-09-2021,8:26,"['Coffee beans special 200', 'Macchiato', 'Pour-over normal']","[600, 75, 100]",Penguin
+1507,23-09-2021,9:02,['Coffee beans special 200'],[600],Penguin
+1508,23-09-2021,9:14,"['Latte', 'Pour-over normal', 'Coffee beans special 200']","[70, 100, 600]",Penguin
+1509,24-09-2021,10:09,['Pour-over special'],[200],Rambo
+1510,24-09-2021,10:09,['Pour-over special'],[200],Rambo
+1511,24-09-2021,10:39,"['Latte', 'Pour-over special', 'Macchiato']","[70, 200, 75]",Rambo
+1512,24-09-2021,11:37,"['Pour-over normal', 'Espresso shot', 'Americano']","[100, 30, 50]",Rambo
+1513,24-09-2021,11:59,['Flat white'],[70],Rambo
+1514,24-09-2021,12:29,['Espresso shot'],[30],Rambo
+1515,24-09-2021,12:41,['Pour-over normal'],[100],Rambo
+1516,24-09-2021,13:06,"['Espresso shot', 'Pour-over normal']","[30, 100]",Rambo
+1517,24-09-2021,13:20,['Pour-over normal'],[100],Rambo
+1518,24-09-2021,14:04,"['Pour-over normal', 'Latte']","[100, 70]",Rambo
+1519,24-09-2021,14:52,"['Macchiato', 'Pour-over special']","[75, 200]",Rambo
+1520,24-09-2021,15:58,['Macchiato'],[75],Rambo
+1521,24-09-2021,7:00,"['Latte', 'Flat white', 'Americano']","[70, 70, 50]",Rambo
+1522,24-09-2021,7:00,"['Americano', 'Latte', 'Pour-over normal']","[50, 70, 100]",Rambo
+1523,24-09-2021,7:51,"['Pour-over special', 'Coffee beans 200', 'Pour-over normal', 'Latte', 'Coffee beans 200']","[200, 400, 100, 70, 400]",Rambo
+1524,24-09-2021,8:22,"['Cappucino', 'Flat white']","[70, 70]",Rambo
+1525,24-09-2021,8:24,['Pour-over special'],[200],Rambo
+1526,24-09-2021,8:55,['Latte'],[70],Rambo
+1527,24-09-2021,9:16,"['Cappucino', 'Coffee beans 200']","[70, 400]",Rambo
+1528,24-09-2021,9:55,['Latte'],[70],Rambo
+1529,25-09-2021,10:13,"['Pour-over normal', 'Cappucino']","[100, 70]",Medse
+1530,25-09-2021,11:48,['Mocha'],[75],Medse
+1531,25-09-2021,11:48,"['Macchiato', 'Americano']","[75, 50]",Medse
+1532,25-09-2021,12:17,"['Cappucino', 'Americano']","[70, 50]",Medse
+1533,25-09-2021,13:01,"['Mocha', 'Pour-over normal']","[75, 100]",Medse
+1534,25-09-2021,13:08,['Macchiato'],[75],Medse
+1535,25-09-2021,13:12,['Cappucino'],[70],Medse
+1536,25-09-2021,14:07,['Coffee beans 200'],[400],Medse
+1537,25-09-2021,14:23,['Flat white'],[70],Medse
+1538,25-09-2021,14:45,['Pour-over normal'],[100],Medse
+1539,25-09-2021,15:32,"['Pour-over normal', 'Cappucino']","[100, 70]",Medse
+1540,25-09-2021,15:57,['Americano'],[50],Medse
+1541,25-09-2021,16:14,"['Coffee beans 200', 'Macchiato']","[400, 75]",Medse
+1542,25-09-2021,16:33,"['Macchiato', 'Mocha', 'Macchiato', 'Americano']","[75, 75, 75, 50]",Medse
+1543,25-09-2021,9:05,"['Latte', 'Espresso shot']","[70, 30]",Medse
+1544,25-09-2021,9:52,"['Americano', 'Cappucino']","[50, 70]",Medse
+1545,26-09-2021,10:27,['Americano'],[50],Medse
+1546,26-09-2021,11:07,['Pour-over special'],[200],Medse
+1547,26-09-2021,14:27,['Flat white'],[70],Medse
+1548,26-09-2021,16:17,['Pour-over special'],[200],Medse
+1549,26-09-2021,16:35,['Macchiato'],[75],Medse
+1550,26-09-2021,7:23,"['Cappucino', 'Flat white', 'Flat white']","[70, 70, 70]",Medse
+1551,26-09-2021,7:40,"['Flat white', 'Flat white']","[70, 70]",Medse
+1552,26-09-2021,7:42,"['Pour-over special', 'Mocha']","[200, 75]",Medse
+1553,26-09-2021,8:23,"['Flat white', 'Americano']","[70, 50]",Medse
+1554,26-09-2021,8:45,"['Cappucino', 'Cappucino']","[70, 70]",Medse
+1555,26-09-2021,9:08,['Pour-over special'],[200],Medse
+1556,26-09-2021,9:54,"['Coffee beans 200', 'Pour-over special']","[400, 200]",Medse
+1557,27-09-2021,10:12,['Pour-over special'],[200],Rambo
+1558,27-09-2021,11:10,"['Coffee beans 200', 'Coffee beans 200']","[400, 400]",Rambo
+1559,27-09-2021,11:11,['Coffee beans 200'],[400],Rambo
+1560,27-09-2021,15:50,['Pour-over special'],[200],Rambo
+1561,27-09-2021,8:24,['Americano'],[50],Rambo
+1562,28-09-2021,10:29,['Cappucino'],[70],Penguin
+1563,28-09-2021,10:45,"['Mocha', 'Americano']","[75, 50]",Penguin
+1564,28-09-2021,10:47,"['Latte', 'Espresso shot', 'Pour-over normal']","[70, 30, 100]",Penguin
+1565,28-09-2021,11:14,"['Pour-over special', 'Latte']","[200, 70]",Penguin
+1566,28-09-2021,11:16,"['Pour-over normal', 'Cappucino']","[100, 70]",Penguin
+1567,28-09-2021,11:33,"['Pour-over special', 'Espresso shot']","[200, 30]",Penguin
+1568,28-09-2021,12:10,['Cappucino'],[70],Penguin
+1569,28-09-2021,12:28,"['Coffee beans 200', 'Pour-over special', 'Coffee beans special 200']","[400, 200, 600]",Penguin
+1570,28-09-2021,12:54,"['Pour-over special', 'Pour-over special', 'Coffee beans 200', 'Cappucino']","[200, 200, 400, 70]",Penguin
+1571,28-09-2021,12:55,"['Pour-over normal', 'Pour-over special']","[100, 200]",Penguin
+1572,28-09-2021,12:56,['Latte'],[70],Penguin
+1573,28-09-2021,13:37,"['Mocha', 'Macchiato', 'Mocha']","[75, 75, 75]",Penguin
+1574,28-09-2021,14:23,['Latte'],[70],Penguin
+1575,28-09-2021,15:18,"['Latte', 'Americano']","[70, 50]",Penguin
+1576,28-09-2021,15:44,['Pour-over normal'],[100],Penguin
+1577,28-09-2021,16:05,"['Pour-over special', 'Pour-over normal']","[200, 100]",Penguin
+1578,28-09-2021,16:28,['Cappucino'],[70],Penguin
+1579,28-09-2021,16:35,['Flat white'],[70],Penguin
+1580,28-09-2021,16:36,['Espresso shot'],[30],Penguin
+1581,28-09-2021,7:02,['Pour-over normal'],[100],Penguin
+1582,28-09-2021,7:18,['Cappucino'],[70],Penguin
+1583,28-09-2021,7:37,['Flat white'],[70],Penguin
+1584,28-09-2021,7:52,['Flat white'],[70],Penguin
+1585,28-09-2021,9:28,['Macchiato'],[75],Penguin
+1586,28-09-2021,9:41,"['Pour-over special', 'Latte']","[200, 70]",Penguin
+1587,29-09-2021,10:18,['Cappucino'],[70],Rambo
+1588,29-09-2021,11:46,"['Macchiato', 'Pour-over special']","[75, 200]",Rambo
+1589,29-09-2021,12:01,"['Flat white', 'Espresso shot', 'Americano', 'Mocha', 'Latte']","[70, 30, 50, 75, 70]",Rambo
+1590,29-09-2021,12:59,['Pour-over normal'],[100],Rambo
+1591,29-09-2021,13:19,['Pour-over normal'],[100],Rambo
+1592,29-09-2021,13:22,"['Mocha', 'Flat white']","[75, 70]",Rambo
+1593,29-09-2021,13:34,['Flat white'],[70],Rambo
+1594,29-09-2021,13:34,"['Flat white', 'Espresso shot']","[70, 30]",Rambo
+1595,29-09-2021,14:25,"['Pour-over special', 'Macchiato', 'Latte', 'Latte']","[200, 75, 70, 70]",Rambo
+1596,29-09-2021,14:43,['Latte'],[70],Rambo
+1597,29-09-2021,15:08,['Pour-over special'],[200],Rambo
+1598,29-09-2021,15:25,"['Pour-over normal', 'Pour-over special']","[100, 200]",Rambo
+1599,29-09-2021,15:31,"['Pour-over special', 'Pour-over normal']","[200, 100]",Rambo
+1600,29-09-2021,16:04,['Flat white'],[70],Rambo
+1601,29-09-2021,16:08,"['Pour-over normal', 'Pour-over special', 'Pour-over normal']","[100, 200, 100]",Rambo
+1602,29-09-2021,16:25,['Macchiato'],[75],Rambo
+1603,29-09-2021,16:58,['Pour-over normal'],[100],Rambo
+1604,29-09-2021,7:20,['Flat white'],[70],Rambo
+1605,29-09-2021,7:38,['Americano'],[50],Rambo
+1606,29-09-2021,7:41,['Pour-over special'],[200],Rambo
+1607,29-09-2021,7:42,"['Flat white', 'Macchiato', 'Latte']","[70, 75, 70]",Rambo
+1608,29-09-2021,7:58,"['Espresso shot', 'Latte']","[30, 70]",Rambo
+1609,29-09-2021,8:42,['Flat white'],[70],Rambo
+1610,29-09-2021,8:45,"['Americano', 'Macchiato', 'Pour-over special']","[50, 75, 200]",Rambo
+1611,29-09-2021,9:31,"['Pour-over special', 'Cappucino']","[200, 70]",Rambo
+1612,30-09-2021,10:00,"['Pour-over normal', 'Flat white']","[100, 70]",Penguin
+1613,30-09-2021,10:35,['Americano'],[50],Penguin
+1614,30-09-2021,11:08,"['Flat white', 'Pour-over normal', 'Pour-over special']","[70, 100, 200]",Penguin
+1615,30-09-2021,12:03,"['Coffee beans 200', 'Pour-over normal', 'Mocha']","[400, 100, 75]",Penguin
+1616,30-09-2021,12:25,"['Espresso shot', 'Pour-over normal']","[30, 100]",Penguin
+1617,30-09-2021,12:46,['Latte'],[70],Penguin
+1618,30-09-2021,13:41,['Cappucino'],[70],Penguin
+1619,30-09-2021,13:55,['Cappucino'],[70],Penguin
+1620,30-09-2021,15:11,"['Cappucino', 'Latte']","[70, 70]",Penguin
+1621,30-09-2021,15:35,['Pour-over special'],[200],Penguin
+1622,30-09-2021,15:36,"['Flat white', 'Flat white']","[70, 70]",Penguin
+1623,30-09-2021,16:06,['Espresso shot'],[30],Penguin
+1624,30-09-2021,16:45,"['Flat white', 'Pour-over special']","[70, 200]",Penguin
+1625,30-09-2021,7:19,['Pour-over normal'],[100],Penguin
+1626,30-09-2021,7:30,['Pour-over special'],[200],Penguin
+1627,30-09-2021,7:56,"['Espresso shot', 'Flat white', 'Cappucino', 'Latte']","[30, 70, 70, 70]",Penguin
+1628,30-09-2021,8:24,"['Flat white', 'Mocha']","[70, 75]",Penguin
