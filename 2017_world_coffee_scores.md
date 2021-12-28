@@ -184,44 +184,28 @@ Next one is to calculate the percentages of each column missing values.
 
 ``` r
 missing_percentage <- arabica_quality %>% 
-  summarize_all(funs(round((sum(is.na(.)) / length(.)) * 100)), digits = 2)
-```
+  summarise_all(list(name = ~sum(is.na(.)) / length(.) * 100))
 
-    ## Warning: `funs()` was deprecated in dplyr 0.8.0.
-    ## Please use a list of either functions or lambdas: 
-    ## 
-    ##   # Simple named list: 
-    ##   list(mean = mean, median = median)
-    ## 
-    ##   # Auto named with `tibble::lst()`: 
-    ##   tibble::lst(mean, median)
-    ## 
-    ##   # Using lambdas
-    ##   list(~ mean(., trim = .2), ~ median(., na.rm = TRUE))
-    ## This warning is displayed once every 8 hours.
-    ## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was generated.
-
-``` r
 #Use pivot_longer to better show the result in longer format
-missing_percentage <- pivot_longer(missing_percentage, cols = colnames(missing_percentage), names_to = "col_name", values_to = "percentage")
+missing_percentage <- pivot_longer(round(missing_percentage, 2), cols = colnames(missing_percentage), names_to = "col_name", values_to = "percentage")
 
 #Sort the values in descending order
 missing_percentage[order(missing_percentage$percentage, decreasing = TRUE), ]
 ```
 
     ## # A tibble: 44 x 2
-    ##    col_name             percentage
-    ##    <chr>                     <dbl>
-    ##  1 Lot.Number                 79.4
-    ##  2 Farm.Name                  27.2
-    ##  3 Mill                       23.4
-    ##  4 Producer                   17.5
-    ##  5 altitude_low_meters        17.3
-    ##  6 altitude_high_meters       17.3
-    ##  7 altitude_mean_meters       17.3
-    ##  8 Altitude                   17.0
-    ##  9 Color                      16.5
-    ## 10 Company                    15.9
+    ##    col_name                  percentage
+    ##    <chr>                          <dbl>
+    ##  1 Lot.Number_name                 79.4
+    ##  2 Farm.Name_name                  27.2
+    ##  3 Mill_name                       23.4
+    ##  4 Producer_name                   17.5
+    ##  5 altitude_low_meters_name        17.3
+    ##  6 altitude_high_meters_name       17.3
+    ##  7 altitude_mean_meters_name       17.3
+    ##  8 Altitude_name                   17.0
+    ##  9 Color_name                      16.5
+    ## 10 Company_name                    15.9
     ## # ... with 34 more rows
 
 The column **Lot.Number** can be entirely dropped due to the very high
